@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Octagon NFT',
-  tagline: 'Octagon NFT',
-  url: 'https://docs.octagon.mn/',
+  title: 'Octagon',
+  tagline: 'Octagon',
+  url: 'https://docs.octagon.mn',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -63,9 +63,9 @@ const config = {
       },
       navbar: {
         hideOnScroll: true,
-        title: 'Octagon NFT',
+        title: 'Octagon',
         logo: {
-          alt: 'Octagon NFT',
+          alt: 'Octagon',
           src: 'img/favicon.png',
           srcDark: 'img/favicon.png',
           width: 32,
@@ -84,7 +84,6 @@ const config = {
             position: 'left',
             label: 'Marketplace',
           },
-          // sidebarId
           {
             type: 'doc',
             docId: 'nft/intro',
