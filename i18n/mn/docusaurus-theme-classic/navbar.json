@@ -1,0 +1,34 @@
+{
+  "title": {
+    "message": "Octagon",
+    "description": "The title in the navbar"
+  },
+  "item.label.Exchange": {
+    "message": "Exchange",
+    "description": "Navbar item with label Exchange"
+  },
+  "item.label.Marketplace": {
+    "message": "Marketplace",
+    "description": "Navbar item with label Marketplace"
+  },
+  "item.label.NFT": {
+    "message": "NFT",
+    "description": "Navbar item with label NFT"
+  },
+  "item.label.Buha": {
+    "message": "Buha",
+    "description": "Navbar item with label Buha"
+  },
+  "item.label.Нийтлэл": {
+    "message": "Нийтлэл",
+    "description": "Navbar item with label Нийтлэл"
+  },
+  "item.label.Мэдээ мэдээлэл": {
+    "message": "Мэдээ мэдээлэл",
+    "description": "Navbar item with label Мэдээ мэдээлэл"
+  },
+  "item.label.Бидний тухай": {
+    "message": "Бидний тухай",
+    "description": "Navbar item with label Бидний тухай"
+  }
+}
