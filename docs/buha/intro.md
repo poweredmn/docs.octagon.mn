@@ -1,9 +1,11 @@
 ---
-sidebar_position: 0
 id: intro
-description: All about buha
 slug: /buha
-title: What is buha?
+sidebar_position: 0
+sidebar_label: Angry Red Buha Club
+title: Angry Red Buha Club\ARBC\ гэж юу вэ?
+description: Angry Red Buha Club\ARBC\ гэж юу вэ?
 ---
+**Angry Red Buha Club** нь алгоритмийн аргаар үүсгэж авсан солана систем дээр амьдардаг дахин давтагдашгүй бүтээгдсэн **10.000 ширхэг Buha NFT**-ийн цуглуулга бөгөөд технологийн хамгийн өндөр дэвшлийг ашигласан экосистем бүхий төсөл юм. 
 
-Hello buha
+**Buha NFT** нь худалдаж авсан эхний  өдрөөсөө эхлэн үнэ цэнээ хэдэн зуун дахин өсгөж чадах дижитал хөрөнгө юм. Buha эзэмшигчид ARBC-ээр нэгдэн олон үйл ажиллагааны тасалбарыг өөрийн дижитал хөрөнгөөр худалдан авч, маш олон төрлийн хямдрал, урамшууллыг хүртэх боломжтой. Түүнээс гадна NFT бүр дахин давтагдашгүй хэн ч үл өөрчлөх **smart contract**-аар хэрэгждэг.

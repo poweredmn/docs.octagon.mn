@@ -27,7 +27,8 @@ const config = {
         debug: true,
         docs: {
           path: 'docs',
-          showLastUpdateTime: true,
+          // showLastUpdateTime: true,
+          // showLastUpdateAuthor: true,
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // editUrl: 'https://github.com/poweredmn/docs.octagon.mn',
@@ -53,14 +54,14 @@ const config = {
     ({
       hideableSidebar: true,
       colorMode: {
-        defaultMode: 'light',
+        defaultMode: 'dark', // dark bolgoh
         disableSwitch: false,
         respectPrefersColorScheme: true,
       },
-      announcementBar: {
-        id: 'announcementBar-2', // Increment on change
-        content: `⭐️ hello Octagon, Medegdel is here`,
-      },
+      // announcementBar: {
+      //   id: 'announcementBar-2', // Increment on change
+      //   content: `⭐️ hello Octagon, Medegdel is here`,
+      // },
       navbar: {
         hideOnScroll: true,
         title: 'Octagon',
@@ -76,7 +77,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Exchange',
+            label: 'Гарын авлага',
           },
           {
             type: 'doc',
@@ -86,49 +87,59 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'nft/intro',
+            docId: 'exchange/intro',
             position: 'left',
-            label: 'NFT',
+            label: 'Exchange',
           },
+          // {
+          //   type: 'doc',
+          //   docId: 'nft/intro',
+          //   position: 'left',
+          //   label: 'NFT',
+          // },
           {
             type: 'doc',
             docId: 'buha/intro',
             position: 'left',
-            label: 'Buha',
+            label: 'Angry Red Buha Club',
           },
           {to: '/blog', label: 'Нийтлэл', position: 'left'},
-          {to: '/news', label: 'Мэдээ мэдээлэл', position: 'left'},
+          // {to: '/news', label: 'Мэдээ мэдээлэл', position: 'left'},
           {
             href: 'https://www.nft.octagon.mn/about-us',
             label: 'Бидний тухай',
             position: 'right',
           },
-          {
-            type: 'localeDropdown',
-            position: 'right',
-          },
+          // {
+          //   type: 'localeDropdown',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
         style: 'dark',
         links: [
           {
-            title: 'Хэрэглэх заавар',
+            title: 'Гарын авлага',
             items: [
               {
-                label: 'Exchange',
+                label: 'Гарын авлага',
                 to: '/docs/intro',
-              },
-              {
-                label: 'NFT',
-                to: '/docs/nft',
               },
               {
                 label: 'Marketplace',
                 to: '/docs/marketplace',
               },
               {
-                label: 'Buha',
+                label: 'Exchange',
+                to: '/docs/exchange',
+              },
+              // {
+              //   label: 'NFT',
+              //   to: '/docs/nft',
+              // },
+              {
+                label: 'Angry Red Buha Club',
                 to: '/docs/buha',
               },
             ],
@@ -158,16 +169,12 @@ const config = {
             title: 'Мэдээ мэдээлэл',
             items: [
               {
-                label: 'Блог',
+                label: 'Нийтлэл',
                 to: '/blog',
               },
-              {
-                label: 'Мэдээ',
-                to: '/news',
-              },
               // {
-              //   label: 'GitHub',
-              //   href: 'https://github.com/facebook/docusaurus',
+              //   label: 'Мэдээ',
+              //   to: '/news',
               // },
             ],
           },

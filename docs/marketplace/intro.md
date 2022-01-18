@@ -1,9 +1,12 @@
 ---
-sidebar_position: 0
 id: intro
-description: All about market place
 slug: /marketplace
-title: What is marketplace?
+sidebar_position: 0
+sidebar_label: Octagon marketplace гэж юу вэ?
+title: Octagon marketplace гэж юу вэ?
+description: Octagon marketplace гэж юу вэ?
 ---
 
-Hello marketplace
+Octagon NFT marketplace нь **DAO(Decentralized Autonomous Organization) буюу төвлөрсөн бус удирдлагын** зарчмаар хөгжиж ажиллах онцлогтой, нийт 7 төрлийн Utility хэрэглүүртэй NFT худалдаалах, уран бүтээлч болон оюуны өвөрмөц бүтээлийг **хоёр дахь зах зээлд нийлүүлэх(Minting)**, бүх төрлийн дижитал бүтээгдэхүүн, хөрөнгөтэй холбоотой харилцааг зохицуулах нэгдсэн зах юм.
+
+Мөн NFT болон Crypto арилжааны платформ бөгөөд эхний ээлжинд NFT гаргах, борлуулах боломжтойгоор үйл ажиллагаа эхлүүлж байна. Манай хөгжүүлэлтэд бусад криптто койнуудыг ашиглах боломж хууль эрх зүйн зөвшөөрөлтэй орчинд тун удахгүй нэмэгдэх болно. Ингэснээр та өөрт байгаа крипто валютыг ашиглаж NFT зах зээлд оролцох боломж нээгдэнэ.
