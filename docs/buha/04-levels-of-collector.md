@@ -1,10 +1,10 @@
 ---
-id: sex-levels-of-collector
-slug: /buha/sex-levels-of-collector
-sidebar_position: 6
-sidebar_label: Цуглуулагчийн 6 түвшин
-title: Цуглуулагчийн 6 түвшин
-description: Цуглуулагчийн 6 түвшин
+id: collector-level
+slug: /buha/collector-level
+sidebar_position: 4
+sidebar_label: Буха Цуглуулагчийн 6 түвшин
+title: Буха Цуглуулагчийн 6 түвшин
+description: Буха Цуглуулагчийн 6 түвшин
 ---
 Манай BUHA клубт аюултай ууртай хэрнээ лаг царайлаг бухнууд болон мета ертөнцийн cyborg бухнуудын цуглуулга бий.
 Түүнээс гадна өндөгнөөс галзуу бас догшин луунууд тун удахгүй төрөх гэж байна. Эдгээрийн дараа Utility хэрэглүүртэй дараагийн цоо шинэ цуглуулгууд хөгжүүлэгдэж байна. 
