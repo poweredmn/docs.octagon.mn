@@ -1,6 +1,6 @@
 ---
-id: how-to-buy-buha
-slug: /buha/how-to-buy-buha
+id: how-to-buy
+slug: /buha/how-to-buy
 sidebar_position: 1
 sidebar_label: Хэрхэн Buha худалдаж авах вэ?
 title: Хэрхэн Buha худалдаж авах вэ?
