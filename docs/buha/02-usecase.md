@@ -1,6 +1,6 @@
 ---
-id: what-is-seven-usecase-of-buha
-slug: /buha/what-is-seven-usecase-of-buha
+id: usecase
+slug: /buha/usecase
 sidebar_position: 2
 sidebar_label: Буха-ын 7 хэрэглүүр гэж юу?
 title: Буха-ын 7 хэрэглүүр гэж юу?
