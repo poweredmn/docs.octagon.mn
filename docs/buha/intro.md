@@ -13,20 +13,22 @@ description: Angry Red Buha Club\ARBC\ гэж юу вэ?
 
 Буханууд дотроо хэд хэдэн **Rarity** түвшинтэй байна.
 
-| Rarity Level | Buha Collection (*1) | BVP | Mutant Buha Collection (*2) | BVP | Golden Buha Collection (*3)| BVP | Dragons | BVP    | Egg| BVP |
-|-----------|-------------------|-----|--------------------------|-----|-------------------|-----|---------------|--------|------------|-----|
-| **Common**    | Buha              | 1   | -                        | -   | -                 | -   | -             | -      | -          | -   |
-| **Uncommon**  | Zombie Buha       | 1.5 | -                        | -   | -                 | -   | -             | -      | -          | -   |
-| **Rare**      | Cyborg Buha       | 2   | Mutant Buha              | 2   | -                 | -   | -             | -      | -          | -   |
-| **Mythical**  | Black Cyborg Buha | 2.5 | -                        | -   | -                 | -   | -             | -      | -          | -   |
-| **Epic**      | -                 | -   | Epic Mutant Buha         | 3   | -                 | -   | -             | -      | -          | -   |
-| **Legendary** | -                 | -   | Cyborg Mutant Buha       | 4   | Golden Buha       | 2   | -             | -      | -          | -   |
-| **Immortal**  | -                 | -   | Black Cyborg Mutant Buha | 5   | Rare Golden Buha |    | 4             | Dragon | Egg         | 10 | 10 |
-| **Ancient**   | -                 | -   | Dragon Mutant Buha       | -   | -                 | -   | Golden Dragon | 60     | Golden Egg | 20  |
+| **Rarity** | **Angry Red Buha Collection** | **BVP** | **Mutant Buha Collection** | **BVP** | **Golden Buha Collection** | **BVP** | **Dragon**    | **BVP** | **Egg**    | **BVP** |
+|------------|-------------------------------|---------|----------------------------|---------|----------------------------|---------|---------------|---------|------------|---------|
+| Common     | Buha                          | 1       | -                          | -       | -                          | -       | -             | -       | -          | -       |
+| Uncommon   | Zombie Buha                   | 1.5     | -                          | -       | -                          | -       | -             | -       | -          | -       |
+| Rare       | Cyborg Buha                   | 2       | Mutant Buha                | 2       | -                          | -       | -             | -       | -          | -       |
+| Mythical   | Black Cyborg Buha             | 2.5     | -                          | -       | -                          | -       | -             | -       | -          | -       |
+| Epic       | -                             | -       | Epic Mutant Buha           | 3       | -                          | -       | -             | -       | -          | -       |
+| Legendary  | -                             | -       | Cyborg Mutant Buha         | 4       | Golden Buha                | 2       | -             | -       | -          | -       |
+| Immortal   | -                             | -       | Black Cyborg Mutant Buha   | 5       | Rare Golden Buha           | 4       | Dragon        | 30      | Egg        | 10      |
+| Ancient    | -                             | -       | Dragon Mutant Buha         | -       | -                          | -       | Golden Dragon | 60      | Golden Egg | 20      |
+
+
 
 * (1) **Angry Red Buha Club - Нийт 10,000ш зурагдсан.**
-* (2) **Зөвхөн Fusion ашиглаж гаргаж авах боломжтой.**
-* (3) **2022 оны 2-р улиралд танилцуулагдах цуглуулга.**
+* (2) **Mutant Buha Collection-ийг зөвхөн Fusion ашиглаж гаргаж авах боломжтой.**
+* (3) **Golden Buha Collection 2022 оны 2-р улиралд танилцуулагдах болно.**
 
 
 
