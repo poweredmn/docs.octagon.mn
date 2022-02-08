@@ -1,10 +1,10 @@
 ---
-id: dragon
-slug: /buha/dragon
+id: games
+slug: /buha/games
 sidebar_position: 7
-sidebar_label: Хэрхэн луутай болох вэ?
-title: Хэрхэн луутай болох вэ?
-description: Хэрхэн луутай болох вэ?
+sidebar_label: Ямар тоглоомууд байгаа вэ?
+title: Ямар тоглоомууд байгаа вэ?
+description: Ямар тоглоомууд байгаа вэ?
 ---
 
 ## Луугийн ферм эрхлэх нь...
