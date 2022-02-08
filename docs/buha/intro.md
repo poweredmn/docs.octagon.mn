@@ -12,3 +12,18 @@ description: Angry Red Buha Club\ARBC\ гэж юу вэ?
 
 Төслийн тухай дэлгэрэнгүй мэдээлэл авахыг хүсвэл албан ёсны сайтаар зочлоорой ->
 [Buha.mn](https://buha.mn/)
+
+Буханууд дотроо хэд хэдэн **Rarity** түвшинтэй байна.
+
+|   | Нэр  | Rarity | BVP оноо |
+|---|---|---|:---:|
+| 1  | Common  | Common | 1 |
+| 2  | Zombie | Uncommon | 1.5 |
+| 3  | Cyborg | Rare | 2 |
+| 4  | Black Cyborg | Mythical | 2.5 |
+| 5  | Golden Buha | Legendary | 2 |
+| 6  | Rare Golden Buha | Immortal | 4 |
+| 7  | Dragon Mutant | Ancient | 10 |
+| 8  | Dragon | Immortal | 30 |
+| 9  | Golden Dragon | Ancient | 60 |
+| 10  | Egg | Rare | 5 |
