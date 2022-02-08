@@ -1,7 +1,7 @@
 ---
 id: what-is-airdrop
 slug: /marketplace/what-is-airdrop
-sidebar_position: 8
+sidebar_position: 7
 sidebar_label: Airdrop гэж юу вэ?
 title: Airdrop гэж юу вэ?
 description: Airdrop гэж юу вэ?
