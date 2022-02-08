@@ -10,30 +10,28 @@ description: Angry Red Buha Club\ARBC\ гэж юу вэ?
 
 **Buha NFT** нь худалдаж авсан эхний  өдрөөсөө эхлэн үнэ цэнээ өсгөж чадах дижитал хөрөнгө юм. **Buha** эзэмшигчид **ARBC**-ээр нэгдэн олон үйл ажиллагааны тасалбарыг өөрийн дижитал хөрөнгөөр худалдан авч, маш олон төрлийн хямдрал, урамшууллыг хүртэх боломжтой.
 
-Төслийн тухай дэлгэрэнгүй мэдээлэл авахыг хүсвэл албан ёсны сайтаар зочлоорой ->
-[Buha.mn](https://buha.mn/)
 
 Буханууд дотроо хэд хэдэн **Rarity** түвшинтэй байна.
 
-|   | Нэр  | Rarity | BVP оноо |
-|---|---|---|:---:|
-| 1  | Common Buha  | Common | 1 |
-| 2  | Zombie Buha| Uncommon | 1.5 |
-| 3  | Cyborg Buha| Rare | 2 |
-| 4  | Black Cyborg Buha| Mythical | 2.5 |
-| 5  | Golden Buha | Legendary | 2 |
-| 6  | Rare Golden Buha | Immortal | 4 |
-| 7  | Dragon Mutant Buha| Ancient | 10 |
-| 8  | Dragon | Immortal | 30 |
-| 9  | Golden Dragon | Ancient | 60 |
-| 10  | Egg | Rare | 5 |
+| Rarity Level | Buha Collection (*1) | BVP | Mutant Buha Collection (*2) | BVP | Golden Buha Collection (*3)| BVP | Dragons | BVP    | Egg| BVP |
+|-----------|-------------------|-----|--------------------------|-----|-------------------|-----|---------------|--------|------------|-----|
+| **Common**    | Buha              | 1   | -                        | -   | -                 | -   | -             | -      | -          | -   |
+| **Uncommon**  | Zombie Buha       | 1.5 | -                        | -   | -                 | -   | -             | -      | -          | -   |
+| **Rare**      | Cyborg Buha       | 2   | Mutant Buha              | 2   | -                 | -   | -             | -      | -          | -   |
+| **Mythical**  | Black Cyborg Buha | 2.5 | -                        | -   | -                 | -   | -             | -      | -          | -   |
+| **Epic**      | -                 | -   | Epic Mutant Buha         | 3   | -                 | -   | -             | -      | -          | -   |
+| **Legendary** | -                 | -   | Cyborg Mutant Buha       | 4   | Golden Buha       | 2   | -             | -      | -          | -   |
+| **Immortal**  | -                 | -   | Black Cyborg Mutant Buha | 5   | Rare Golden Buha |    | 4             | Dragon | Egg         | 10 | 10 |
+| **Ancient**   | -                 | -   | Dragon Mutant Buha       | -   | -                 | -   | Golden Dragon | 60     | Golden Egg | 20  |
+
+* (1) **Angry Red Buha Club - Нийт 10,000ш зурагдсан.**
+* (2) **Зөвхөн Fusion ашиглаж гаргаж авах боломжтой.**
+* (3) **2022 оны 2-р улиралд танилцуулагдах цуглуулга.**
 
 
 
-Эхний Angry Red Buha Club-ийн Buha-ууд 10,000ш зурагдсанаас 3,000ш худалдаанд гарсан байгаа.
-
-
-Дараагийн 
-
+Angry Red Buha Club-ийн Buha-нуудын эхний 
+ 
+* 3,000 Buha нь 2022 оны 1-р сарын 10-ний өдөр,
 * 3,000 Buha нь 2022 оны 2-р сарын 10-ний өдөр,
 * 3,900 Buha нь 2022 оны 2-р сарын 18-ний өдөр худалдаанд гарахаар төлөвлөгдөж байна. Уг цуглуулгад **Common, Uncommon, Rare Buha**-ууд багтсан байгаа.
