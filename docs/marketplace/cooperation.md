@@ -1,7 +1,7 @@
 ---
 id: cooperation
 slug: /marketplace/cooperation
-sidebar_position: 7
+sidebar_position: 8
 sidebar_label: Хамтран ажиллах
 title: Хамтран ажиллах
 description: Хамтран ажиллах
