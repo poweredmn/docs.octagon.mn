@@ -1,7 +1,7 @@
 ---
-id: what-is-buha-academy
-slug: /buha/what-is-buha-academy
-sidebar_position: 12
+id: academy
+slug: /buha/academy
+sidebar_position: 10
 sidebar_label: Buha Academy гэж юу вэ?
 title: Buha Academy гэж юу вэ?
 description: Buha Academy гэж юу вэ?
