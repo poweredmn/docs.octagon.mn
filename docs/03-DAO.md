@@ -1,6 +1,6 @@
 ---
 id: DAO
-slug: DAO
+slug: /DAO
 sidebar_label: DAO гэж юу вэ?
 sidebar_position: 3
 title: DAO (Decentralized Autonomous Organization) гэж юу вэ?

@@ -1,6 +1,6 @@
 ---
 id: intro
-slug: /marketplace
+slug: /marketplace/about
 sidebar_position: 0
 sidebar_label: Octagon marketplace гэж юу вэ?
 title: Octagon marketplace гэж юу вэ?

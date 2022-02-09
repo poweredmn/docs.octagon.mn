@@ -10,6 +10,7 @@ const config = {
   tagline: 'Octagon',
   url: 'https://docs.octagon.mn',
   baseUrl: '/',
+  trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
@@ -105,6 +106,11 @@ const config = {
           },
           {to: '/blog', label: 'Нийтлэл', position: 'left'},
           // {to: '/news', label: 'Мэдээ мэдээлэл', position: 'left'},
+          {
+            href: 'https://www.nft.octagon.mn/market?status=LISTED',
+            label: 'Маркет',
+            position: 'right',
+          },
           {
             href: 'https://www.nft.octagon.mn/about-us',
             label: 'Бидний тухай',

@@ -1,9 +1,9 @@
 ---
-sidebar_position: 0
 id: intro
-description: All about nft
-slug: /nft
+slug: /nft/about
+sidebar_position: 0
 title: What is nft?
+description: All about nft
 ---
 
 Hello nft

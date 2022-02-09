@@ -1,10 +1,10 @@
 ---
 id: gas-fee
-slug: gas-fee
+slug: /gas-fee
 sidebar_label: Gas Fee гэж юу вэ?
 sidebar_position: 4
 title: Gas Fee гэж юу вэ?
-description: **Gas Fee гэж юу вэ?**
+description: Gas Fee гэж юу вэ?
 ---
 
 Блокчейн технологи дээр бүх гүйлгээ крипто валютаар хийгддэг. 
@@ -15,4 +15,3 @@ description: **Gas Fee гэж юу вэ?**
 **ETH gas fee = 0.000000001 ETH**
 
 **SOL gas fee = 0.000005 SOL**
-

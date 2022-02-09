@@ -45,10 +45,10 @@ const sidebars = {
   */
   docs: [
     'intro',
-    'what-is-nft',
-    'what-is-marketplace',
-    'what-is-dao', 
-    'gas-fee', 
+    'marketplace',
+    'nft',
+    'DAO', 
+    'gas-fee',
   ],
   marketplace: [
     {
