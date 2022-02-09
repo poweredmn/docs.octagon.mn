@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_octagon_mn=self.webpackChunkdocs_octagon_mn||[]).push([[1],{2638:function(e){e.exports=JSON.parse('{"permalink":"/blog/page/2","page":2,"postsPerPage":5,"totalPages":2,"totalCount":6,"previousPage":"/blog","nextPage":null,"blogDescription":"\u0411\u043b\u043e\u0433","blogTitle":"\u0411\u043b\u043e\u0433"}')}}]);

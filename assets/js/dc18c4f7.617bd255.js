@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_octagon_mn=self.webpackChunkdocs_octagon_mn||[]).push([[915],{3446:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/celebrities","name":"celebrities","count":1,"permalink":"/blog/tags/celebrities"}')}}]);

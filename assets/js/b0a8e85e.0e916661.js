@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_octagon_mn=self.webpackChunkdocs_octagon_mn||[]).push([[500],{1672:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/nft","name":"nft","count":3,"permalink":"/blog/tags/nft"}')}}]);

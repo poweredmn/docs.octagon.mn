@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs_octagon_mn=self.webpackChunkdocs_octagon_mn||[]).push([[2535],{5641:function(e){e.exports=JSON.parse('{"title":"\u041d\u0438\u0439\u0442\u043b\u044d\u043b\u04af\u04af\u0434","items":[{"title":"\u0422\u0430\u0432\u0442\u0430\u0439 \u043c\u043e\u0440\u0438\u043b\u043d\u043e \u0443\u0443","permalink":"/en/blog/welcome"}]}')}}]);

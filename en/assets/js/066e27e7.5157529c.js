@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_octagon_mn=self.webpackChunkdocs_octagon_mn||[]).push([[5734],{8918:function(n){n.exports=JSON.parse('{"allTagsPath":"/en/blog/tags","slug":"/en/blog/tags/coin","name":"coin","count":1,"permalink":"/en/blog/tags/coin"}')}}]);

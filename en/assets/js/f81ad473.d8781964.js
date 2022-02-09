@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_octagon_mn=self.webpackChunkdocs_octagon_mn||[]).push([[6451],{9345:function(a){a.exports=JSON.parse('{"allTagsPath":"/en/blog/tags","slug":"/en/blog/tags/dragon-farm","name":"dragon-farm","count":1,"permalink":"/en/blog/tags/dragon-farm"}')}}]);
