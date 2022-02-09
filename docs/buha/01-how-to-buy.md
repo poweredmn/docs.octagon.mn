@@ -20,4 +20,4 @@ description: Хэрхэн Buha худалдаж авах вэ?
 1. Дансаа цэнэглэсэн бол та [Octagon NFT marketplace](https://www.nft.octagon.mn/market) зочилж, худалдаалагдаж буй бүтээлүүдтэй танилцаарай.
 2. Сонгосон NFT-ийн доор худалдаж авах гэсэн товч ашиглан авна. Мөн Амбассадор код ашиглаж хөнгөлөлт авах боломжтой.
 
-[Ambassador код гэж юу вэ?](/docs/marketplace/what-is-ambassador-program)
+[Ambassador код гэж юу вэ?](/docs/marketplace/ambassador-program)
