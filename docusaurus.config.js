@@ -65,7 +65,7 @@ const config = {
       // },
       navbar: {
         hideOnScroll: true,
-        title: 'Octagon',
+        title: 'Octagon ',
         logo: {
           alt: 'Octagon',
           src: 'img/favicon.png',
@@ -107,7 +107,7 @@ const config = {
           {to: '/blog', label: 'Нийтлэл', position: 'left'},
           // {to: '/news', label: 'Мэдээ мэдээлэл', position: 'left'},
           {
-            href: 'https://www.nft.octagon.mn/market?status=LISTED',
+            href: 'https://nft.octagon.mn/market?status=LISTED',
             label: 'Маркет',
             position: 'right',
           },
@@ -155,7 +155,7 @@ const config = {
             items: [
               {
                 label: 'Facebook',
-                href: 'https://www.facebook.com/Octagon-NFT-106029445282787',
+                href: 'https://facebook.com/Octagon-NFT-106029445282787',
               },
               {
                 label: 'Discord',
@@ -189,23 +189,23 @@ const config = {
             items: [
               {
                 label: 'Үйлчилгээ',
-                href: 'https://www.nft.octagon.mn/service',
+                href: 'https://nft.octagon.mn/service',
               },
               {
                 label: 'Холбоо барих',
-                href: 'https://www.nft.octagon.mn/contact',
+                href: 'https://nft.octagon.mn/contact',
               },
               {
                 label: 'Үйлчилгээний нөхцөл',
-                href: 'https://www.nft.octagon.mn/terms-condition',
+                href: 'https://nft.octagon.mn/terms-condition',
               },
               {
                 label: 'Нууцлалын бодлого',
-                href: 'https://www.nft.octagon.mn/privacy-policy',
+                href: 'https://nft.octagon.mn/privacy-policy',
               },
               {
                 label: 'Түгээмэл асуултууд',
-                href: 'https://www.nft.octagon.mn/faq',
+                href: 'https://nft.octagon.mn/faq',
               },
             ],
           },

@@ -26,3 +26,28 @@
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+.common {
+  color:#c0c0c0
+}
+.uncommon {
+  color: #99ccff;
+}
+.rare {
+  color: #0000ff;
+}
+.mythical {
+  color: #800080;
+}
+.epic {
+  color: #ff00ff;
+}
+.legendary {
+  color: #ff0000;
+}
+.immortal {
+  color: #ffcc00;
+}
+.ancient {
+  color: #ffcc99;
+}

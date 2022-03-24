@@ -4,29 +4,29 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Зорилго',
+    title: 'NFT marketplace',
     image: require('../../static/img/logo/OCTAGON-LOGO.png').default,
     description: (
       <>
-        Технологи, блокчейн технологийг бодит хэрэглээнд ухаалгаар нэвтрүүлсэн NFT захыг барих болно.
+        Төрөл бүрийн NFT авах зарах, цуглуулах, ашиглах боломжийг хүн бүрт олгох зорилготой идэвхитэй хөгжүүлэгдэж байгаа платформ.
       </>
     ),
   },
   {
-    title: 'Зорилт',
+    title: 'Utility',
     image: require('../../static/img/logo/OCTAGON-LOGO.png').default,
     description: (
       <>
-        Хэрэглэгч бүр өөрийн дижитал бүтээлээ оруулах боломжтой, хүссэнээрээ манай технологийг ашиглах боломжтой, чөлөөт зах байх болно.
+        NFT зөвхөн цуглуулга байдлаар биш, өдөр тутмын хэрэглээнд ашиглаж болохуйц болгож хөгжүүлэх зорилготой.
       </>
     ),
   },
   {
-    title: 'Алсын хараа',
+    title: 'Бүтээл гаргах',
     image: require('../../static/img/logo/OCTAGON-LOGO.png').default,
     description: (
       <>
-        DAO дээр суурилсан олон улсын NFT marketplace болохын төлөө зорин ажиллаж байна.
+        Өөрийн уран бүтээл, галзуу санаагаа NFT болгоход тань бид зөвлөж, хамтарч ажиллах болно.
       </>
     ),
   },

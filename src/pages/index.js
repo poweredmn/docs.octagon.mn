@@ -12,12 +12,12 @@ function HomepageHeader() {
     <header className={clsx('hero hero--dark', styles.heroBanner)}>
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">NFT болон Crypto арилжааны платформ</p>
+        <p className="hero__subtitle">Octagon NFT арилжааны платформын мэдээлэл, хэрэглэгчдэд өгөх заавар зөвлөгөөг нэгтгэсэн тэмдэглэл юм.</p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Гарын авлагатай танилцах
+            NFT-г ойлгож хэрэглэх нь
           </Link>
         </div>
       </div>
