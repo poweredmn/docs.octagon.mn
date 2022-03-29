@@ -19,7 +19,6 @@ export const Highlight = ({children, color}) => (
 
 Луугийн ферм нь таны **Buha** цуглуулагчийн түвшингээ ахиулахад чухал юм. Зарим **Buha**-ууд нээлттэй зарагдахгүй, зөвхөн **Airdrop**-оор тараагдах, эсвэл зөвхөн Лууны фермээр олж авахаас өөр аргагүй нөхцөл байдал танд тулгарч магадгүй. Octagon marketplace дээрээс худалдаж авч болох боловч, эзэмшигчид нь ямар үнэ ханшаар борлуулахыг таашгүй. Үндсэн хоёр тоглоомтойгоор эхэлж байна.
 
-
 ## Өндөг дарах тоглолт.
 
 Бид **Buha**-аар хооллож Dragon болдог “Өндөг”-өөр тоглох фермийг танилцуулж байна.
@@ -51,6 +50,9 @@ Buha-аар feed хийх хамгийн дээд хэмжээ нь 50% хүрг
 
 :::
 
+Хэрхэн тоглох тухай заавар бичлэг орууллаа.
+<iframe width="675" height="380" src="https://www.youtube.com/embed/_AQXQDjw7Y8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Fusion хийх тоглолт.
 
 Fusion хийх тоглоом нь хэрэглэгчдэд өөрт байгаа ижил **Rarity**-тай хоёр **Buha**-г нийлүүлж нэг түвшин дээр **Rarity**-тай нэг **Buha** гаргаж авах боломжийг олгож байгаа юм.
@@ -64,15 +66,39 @@ Fusion хийх тоглоом нь хэрэглэгчдэд өөрт байга
 Fusion хийх **Buha** болон түүнээс гарах шинэ **Buha**-тай доор нэрэн дээр нь дарж танилцаарай.
 
 
-| Rarity | Name | BVP | Fusion хийвэл |
+**Buha гэр бүл**
+
+| Rarity | Орц | BVP | Үр дүн |
 |:-:|:-:|:-:|:-:|
-| <Highlight color="#c0c0c0">Common</Highlight>  | Buha | 1 | Mutant |
-| <Highlight color="#99ccff">Uncommon</Highlight>  | Zombie | 1.5 | Epic Mutant |
-| <Highlight color="#0000ff">Rare</Highlight>  | Cyborg | 2 | Cyborg Mutant |
-| <Highlight color="#800080">Mythical</Highlight> | Black Cyborg | 2.5 | Black Cyborg Mutant |
-| <Highlight color="#ff0000">Legendary</Highlight> | Golden Buha | 4 | Rare Golden Buha |
-| <Highlight color="#ff0000">Legendary</Highlight> | Cyborg Mutant | 4 | Black Cyborg Mutant |
-| <Highlight color="#ffcc00">Immortal</Highlight> | Black Cyborg Mutant | 5 | Dragon Mutant Buha|
+| <Highlight color="#c0c0c0">Common</Highlight> | Buha | 1 | Mutant 2 BVP |
+| <Highlight color="#99ccff">Uncommon</Highlight> | Zombie | 1.5 | Epic Mutant 3 BVP |
+| <Highlight color="#0000ff">Rare</Highlight> | Cyborg | 2 | Cyborg Mutant 4 BVP |
+| <Highlight color="#800080">Mythical</Highlight> | Black Cyborg | 2.5 | Black Cyborg Mutant 4 BVP|
+| <Highlight color="#ff0000">Legendary</Highlight> | Golden Buha | 4 | Rare Golden Buha 8 BVP |
+| <Highlight color="#ffcc00">Immortal</Highlight> | Rare Golden Buha | 8 | Dragon Mutant Buha 15 BVP |
+
+----
+
+**Мутант гэр бүл**
+
+| Rarity | Орц | BVP | Үр дүн |
+|:-:|:-:|:-:|:-:|
+| <Highlight color="#0000ff">Rare</Highlight> | Mutant | 2 | Epic Mutant 3 BVP |
+| <Highlight color="#ff00ff">Epic</Highlight> | Epic Mutant | 3 | Cyborg Mutant 4 BVP |
+| <Highlight color="#ff0000">Legendary</Highlight> | Cyborg Mutant | 4 | Cyborg Mutant 8 BVP |
+| <Highlight color="#ffcc00">Immortal</Highlight> | Black Cyborg Mutant | 8 | Dragon Mutan Buha 15 BVP |
+
+----
+
+**Луу гэр бүл**
+
+Лууг Fusion хийж болон Өндөг дарах тоглоом хоёр төрлийн тоглоомоор аль алингаар гаргаж авах боломжтой. 
+
+| Rarity | Орц | BVP | Үр дүн |
+|:-:|:-:|:-:|:-:|
+| <Highlight color="#ff0000">Legendary</Highlight> | Dragon Mutan Buha | 15 | Dragon |
+| <Highlight color="#ffcc00">Immortal</Highlight> | Dragon | 30 | Golden Dragon  |
+| <Highlight color="#ffcc99">Ancient</Highlight> | Golden Dragon | 60 | - |  
 
 
 ---
@@ -93,3 +119,8 @@ Fusion хийх **Buha** болон түүнээс гарах шинэ **Buha**-
 Fusion хийх процесс Common Buha-аас эхлээд Golden Dragon хүртэл явах боломжтой.Энэ тоглоом одоогоор зөвхөн Angry Red Buha цувралд хүчинтэй.
 
 :::
+
+
+## Стэйк хийх.
+
+Энэхүү тоглоом нь  Legendary, Titan цуглуулагч нар өөрсдийн цуглуулгаараа ашиг хүртэх боломжийг олгох юм.

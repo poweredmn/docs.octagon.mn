@@ -23,26 +23,13 @@ export const Highlight = ({children, color}) => (
 
 
 
-| Rarity | Name | BVP | Fusion хийвэл |
-|:-:|:-:|:-:|:-:|
-| <Highlight color="#c0c0c0">Common</Highlight>  | Buha | 1 | Mutant |
-| <Highlight color="#99ccff">Uncommon</Highlight>  | Zombie | 1.5 | Epic Mutant |
-| <Highlight color="#0000ff">Rare</Highlight>  | Cyborg | 2 | Cyborg Mutant |
-| <Highlight color="#800080">Mythical</Highlight> | Black Cyborg | 2.5 | Black Cyborg Mutant |
-| <Highlight color="#ff0000">Legendary</Highlight> | Golden Buha | 4 | Rare Golden Buha |
-| <Highlight color="#ff0000">Legendary</Highlight> | Cyborg Mutant | 4 | Black Cyborg Mutant |
-| <Highlight color="#ffcc00">Immortal</Highlight> | Black Cyborg Mutant | 5 | Dragon Mutant Buha|
-
-
----
-
-**Лууны цуглуулга**
-
-Лууг хоёр төрлийн тоглоомоор аль алингаар гаргаж авах боломжтой.
-
-
-| Rarity | Name | BVP | Fusion хийвэл |
-|:-:|:-:|:-:|:-:|
-| <Highlight color="#ff0000">Legendary</Highlight> | Dragon Mutan Buha | 15 | Dragon |
-| <Highlight color="#ffcc00">Immortal</Highlight> | Dragon | 30 | Golden Dragon  |
-| <Highlight color="#ffcc99">Ancient</Highlight> | Golden Dragon | 60 | - |
+| Rarity  | ARBC familty | BVP  | Mutant Buha Family | BVP | Dragon Family | BVP |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| <Highlight color="#c0c0c0">Common</Highlight> | Buha | 1 | - | - | Egg | 10 |
+| <Highlight color="#99ccff">Uncommon</Highlight> | Zombie | 1.5 | - | - | - | - |
+| <Highlight color="#0000ff">Rare</Highlight> | Cyborg | 2 | Mutant | 2 | Golden Egg | 20 |
+| <Highlight color="#800080">Mythical</Highlight> | Black Cyborg | 2.5 | - | - | - | - |
+| <Highlight color="#ff00ff">Epic</Highlight> | - | - | Epic Mutant | 3 | - | - |
+| <Highlight color="#ff0000">Legendary</Highlight> | Golden | 4 | Cyborg Mutant | 4 | Dragon Mutan Buha | 15 |
+| <Highlight color="#ffcc00">Immortal</Highlight> | Rare Golden | 8 | Black Cyborg Mutant | 8 | Dragon | 30 |
+| <Highlight color="#ffcc99">Ancient</Highlight> | - | - | - | - | Golden Dragon | 60 |
