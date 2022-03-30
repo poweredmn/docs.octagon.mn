@@ -2,7 +2,7 @@
 id: dragons
 slug: /buha/dragons
 sidebar_position: 8
-sidebar_label: Ямар луунууд байх вэ?
+sidebar_label: 8. Ямар луунууд байх вэ?
 title: Ямар луунууд байх вэ?
 description: Ямар луунууд байх вэ?
 ---

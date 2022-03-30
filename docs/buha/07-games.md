@@ -2,7 +2,7 @@
 id: games
 slug: /buha/games
 sidebar_position: 7
-sidebar_label: Ямар тоглоомууд байгаа вэ?
+sidebar_label: 7. Ямар тоглоомууд байгаа вэ?
 title: Ямар тоглоомууд байгаа вэ?
 description: Ямар тоглоомууд байгаа вэ?
 ---
@@ -51,7 +51,8 @@ Buha-аар feed хийх хамгийн дээд хэмжээ нь 50% хүрг
 :::
 
 Хэрхэн тоглох тухай заавар бичлэг орууллаа.
-<iframe width="675" height="380" src="https://www.youtube.com/embed/_AQXQDjw7Y8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="675" height="380" src="https://www.youtube.com/embed/1R2oeheicLs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Fusion хийх тоглолт.
 

@@ -2,7 +2,7 @@
 id: intro
 slug: /buha
 sidebar_position: 0
-sidebar_label: Angry Red Buha Club
+sidebar_label: 0. Angry Red Buha Club
 title: Angry Red Buha Club\ARBC\ гэж юу вэ?
 description: Angry Red Buha Club\ARBC\ гэж юу вэ?
 ---

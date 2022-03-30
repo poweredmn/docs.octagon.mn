@@ -2,9 +2,9 @@
 id: collector-level
 slug: /buha/collector-level
 sidebar_position: 4
-sidebar_label: Буха Цуглуулагчийн 6 түвшин
-title: Буха Цуглуулагчийн 6 түвшин
-description: Буха Цуглуулагчийн 6 түвшин
+sidebar_label: 4. Цуглуулагчийн 6 түвшин
+title: Buha Цуглуулагчийн 6 түвшин
+description: Buha Цуглуулагчийн 6 түвшин
 ---
 
 import Tabs from '@theme/Tabs';
@@ -23,27 +23,27 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value="Collector" label="Collector" default>
     Нийт BVP : 5
-    Цуглуулгадаа : Common BUHA - 5
+    Шаардлага : Common BUHA x 5
   </TabItem>
   <TabItem value="Rare" label="Rare Collector">
     Нийт BVP : 10
-    Цуглуулгадаа : Common BUHA - 5, Rare BUHA - 2
+    Шаардлага : Common BUHA x 5, Rare BUHA x 2
   </TabItem>
   <TabItem value="Golden" label="Golden Collector">
     Нийт BVP : 25
-    Цуглуулгадаа : Common BUHA - 5, Rare BUHA - 2, Golden BUHA 1, Rare Golden BUHA - 1
+    Шаардлага : Common BUHA x 5, Rare BUHA x 2, Golden BUHA x 1, Rare Golden BUHA x 1
   </TabItem>
   <TabItem value="Dragon" label="Dragon Collector">
     Нийт BVP : 60
-    Цуглуулгадаа : Common BUHA - 10, Rare BUHA - 5, Dragon - 1
+    Шаардлага : Common BUHA x 10, Rare BUHA x 5, Dragon x 1
   </TabItem>
   <TabItem value="Legend" label="Legend Collector">
     Нийт BVP : 90
-    Цуглуулгадаа : Common BUHA - 10, Rare BUHA - 5, Golden BUHA 5, Rare Golden BUHA - 2, Dragon - 1
+    Шаардлага : Common BUHA x 10, Rare BUHA x 5, Golden BUHA x 5, Rare Golden BUHA x 2, Dragon x 1
   </TabItem>
   <TabItem value="Titan" label="Titan Collector">
     Нийт BVP : 180
-    Цуглуулгадаа : Common BUHA - 10, Rare BUHA - 5, Golden BUHA 10, Rare Golden BUHA - 5, Dragon - 1, Golden Dragon -1
+    Шаардлага : Common BUHA x 10, Rare BUHA x 5, Golden BUHA x 10, Rare Golden BUHA x 5, Dragon x 1, Golden Dragon x 1
   </TabItem>
 </Tabs>
 

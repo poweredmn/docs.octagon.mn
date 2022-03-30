@@ -2,7 +2,7 @@
 id: buha-procol
 slug: /buha/buha-procol
 sidebar_position: 11
-sidebar_label: Buha Protocol гэж юу вэ?
+sidebar_label: 11. Buha Protocol гэж юу вэ?
 title: Buha Protocol гэж юу вэ?
 description: Buha Protocol гэж юу вэ?
 ---

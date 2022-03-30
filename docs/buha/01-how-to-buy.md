@@ -2,14 +2,23 @@
 id: how-to-buy
 slug: /buha/how-to-buy
 sidebar_position: 1
-sidebar_label: Хэрхэн Buha худалдаж авах вэ?
+sidebar_label: 1. Хэрхэн Buha худалдаж авах вэ?
 title: Хэрхэн Buha худалдаж авах вэ?
 description: Хэрхэн Buha худалдаж авах вэ?
 ---
 
-1. Та Буха цуглуулгаас худалдаж авахаар шийдсэн бол юуны түрүүнд [Octagon.mn](https://nft.octagon.mn/register) marketplace-д бүртгүүлэх хэрэгтэй.
-2. Үүний дараа та дансаа цэнэглэнэ.
-Баруун дээд буланд байрлах Орлого / Зарлага цэсэнд хандаж гүйлгээ хийнэ.
+1. Та Буха цуглуулгаас худалдаж авахаар шийдсэн бол юуны түрүүнд [Octagon.mn](https://nft.octagon.mn/register) marketplace-д бүртгүүлэх хэрэгтэй. Хэрхэн бүртгүүлэх тухай заавар бичлэгийг хүргэж байна.
+
+<iframe width="675" height="380" src="https://www.youtube.com/embed/J0e_f4ob0yI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+1. Үүний дараа та дансаа цэнэглэнэ.
+
+Баруун дээд буланд байрлах Орлого / Зарлага цэсэнд хандаж гүйлгээ хийнэ.  Хэрхэн данс цэнэглэх тухай заавар бичлэгийг хүргэж байна.
+
+<iframe width="675" height="380" src="https://www.youtube.com/embed/mttPofGpj3M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 
 :::info
 

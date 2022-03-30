@@ -2,7 +2,7 @@
 id: merch
 slug: /buha/merch
 sidebar_position: 9
-sidebar_label: Merch/ Shop гэж юу вэ?
+sidebar_label: 9. Merch/ Shop гэж юу вэ?
 title: Merch/ Shop гэж юу вэ?
 description: Merch/ Shop гэж юу вэ?
 ---
