@@ -74,7 +74,7 @@ Fusion хийх **Buha** болон түүнээс гарах шинэ **Buha**-
 | <Highlight color="#c0c0c0">Common</Highlight> | Buha | 1 | Mutant 2 BVP |
 | <Highlight color="#99ccff">Uncommon</Highlight> | Zombie | 1.5 | Epic Mutant 3 BVP |
 | <Highlight color="#0000ff">Rare</Highlight> | Cyborg | 2 | Cyborg Mutant 4 BVP |
-| <Highlight color="#800080">Mythical</Highlight> | Black Cyborg | 2.5 | Black Cyborg Mutant 4 BVP|
+| <Highlight color="#800080">Mythical</Highlight> | Black Cyborg | 2.5 | Cyborg Mutant 4 BVP|
 | <Highlight color="#ff0000">Legendary</Highlight> | Golden Buha | 4 | Rare Golden Buha 8 BVP |
 | <Highlight color="#ffcc00">Immortal</Highlight> | Rare Golden Buha | 8 | Dragon Mutant Buha 15 BVP |
 
@@ -86,14 +86,14 @@ Fusion хийх **Buha** болон түүнээс гарах шинэ **Buha**-
 |:-:|:-:|:-:|:-:|
 | <Highlight color="#0000ff">Rare</Highlight> | Mutant | 2 | Epic Mutant 3 BVP |
 | <Highlight color="#ff00ff">Epic</Highlight> | Epic Mutant | 3 | Cyborg Mutant 4 BVP |
-| <Highlight color="#ff0000">Legendary</Highlight> | Cyborg Mutant | 4 | Cyborg Mutant 8 BVP |
+| <Highlight color="#ff0000">Legendary</Highlight> | Cyborg Mutant | 4 | Black Cyborg Mutant 8 BVP |
 | <Highlight color="#ffcc00">Immortal</Highlight> | Black Cyborg Mutant | 8 | Dragon Mutan Buha 15 BVP |
 
 ----
 
 **Луу гэр бүл**
 
-Лууг Fusion хийж болон Өндөг дарах тоглоом хоёр төрлийн тоглоомоор аль алингаар гаргаж авах боломжтой. 
+Лууг хоёр төрлийн тоглоомоор аль алингаар гаргаж авах боломжтой. Өөрөөр хэлбэл өндөг дараад луу гаргаж чадаагүй бол, Dragon mutant buha-аа fusion хийж луу үүсгэж болно. 
 
 | Rarity | Орц | BVP | Үр дүн |
 |:-:|:-:|:-:|:-:|
@@ -104,22 +104,16 @@ Fusion хийх **Buha** болон түүнээс гарах шинэ **Buha**-
 
 ---
 
-**Лууны цуглуулга**
-
-Лууг хоёр төрлийн тоглоомоор аль алингаар гаргаж авах боломжтой. Өөрөөр хэлбэл өндөг дараад луу гаргаж чадаагүй бол, Dragon mutant buha-аа fusion хийж луу үүсгэж болно.
-
-| Rarity | Name | BVP | Fusion хийвэл |
-|:-:|:-:|:-:|:-:|
-| <Highlight color="#ff0000">Legendary</Highlight> | Dragon Mutan Buha | 15 | Dragon |
-| <Highlight color="#ffcc00">Immortal</Highlight> | Dragon | 30 | Golden Dragon  |
-| <Highlight color="#ffcc99">Ancient</Highlight> | Golden Dragon | 60 | - |
-
 
 :::tip
 
 Fusion хийх процесс Common Buha-аас эхлээд Golden Dragon хүртэл явах боломжтой.Энэ тоглоом одоогоор зөвхөн Angry Red Buha цувралд хүчинтэй.
 
 :::
+
+Хэрхэн тоглох тухай заавар бичлэг орууллаа.
+<iframe width="675" height="380" src="https://www.youtube.com/embed/1T1diD9Gsxg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 ## Стэйк хийх.
