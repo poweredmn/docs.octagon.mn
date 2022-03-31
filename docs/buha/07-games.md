@@ -74,7 +74,7 @@ Fusion хийх **Buha** болон түүнээс гарах шинэ **Buha**-
 | <Highlight color="#c0c0c0">Common</Highlight> | Buha | 1 | Mutant 2 BVP |
 | <Highlight color="#99ccff">Uncommon</Highlight> | Zombie | 1.5 | Epic Mutant 3 BVP |
 | <Highlight color="#0000ff">Rare</Highlight> | Cyborg | 2 | Cyborg Mutant 4 BVP |
-| <Highlight color="#800080">Mythical</Highlight> | Black Cyborg | 2.5 | Cyborg Mutant 4 BVP|
+| <Highlight color="#800080">Mythical</Highlight> | Black Cyborg | 2.5 | Black Cyborg Mutant 8 BVP|
 | <Highlight color="#ff0000">Legendary</Highlight> | Golden Buha | 4 | Rare Golden Buha 8 BVP |
 | <Highlight color="#ffcc00">Immortal</Highlight> | Rare Golden Buha | 8 | Dragon Mutant Buha 15 BVP |
 
