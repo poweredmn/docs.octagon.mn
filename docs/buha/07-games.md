@@ -69,25 +69,26 @@ Fusion хийх **Buha** болон түүнээс гарах шинэ **Buha**-
 
 **Buha гэр бүл**
 
-| Rarity | Орц | BVP | Үр дүн |
-|:-:|:-:|:-:|:-:|
-| <Highlight color="#c0c0c0">Common</Highlight> | Buha | 1 | Mutant 2 BVP |
-| <Highlight color="#99ccff">Uncommon</Highlight> | Zombie | 1.5 | Epic Mutant 3 BVP |
-| <Highlight color="#0000ff">Rare</Highlight> | Cyborg | 2 | Cyborg Mutant 4 BVP |
-| <Highlight color="#800080">Mythical</Highlight> | Black Cyborg | 2.5 | Black Cyborg Mutant 8 BVP|
-| <Highlight color="#ff0000">Legendary</Highlight> | Golden Buha | 4 | Rare Golden Buha 8 BVP |
-| <Highlight color="#ffcc00">Immortal</Highlight> | Rare Golden Buha | 8 | Dragon Mutant Buha 15 BVP |
+| Rarity | Нэр | BVP |
+|:-:|:-:|:-:|
+| <Highlight color="#c0c0c0">Common</Highlight> | Buha | 1.0 |
+| <Highlight color="#99ccff">Uncommon</Highlight> | Zombie Buha | 1.5 |
+| <Highlight color="#0000ff">Rare</Highlight> | Cyborg Buha | 2.0 |
+| <Highlight color="#ff00ff">Epic</Highlight> | Golden Buha | 2.5 |
+| <Highlight color="#800080">Mythical</Highlight> | Black Cyborg Buha | 3.5 |
+| <Highlight color="#ff0000">Legendary</Highlight> | Golden Zombie Buha | 4.0 |
+| <Highlight color="#ffcc00">Immortal</Highlight> | Golden Cyborg Buha | 8.0 |
 
 ----
 
 **Мутант гэр бүл**
 
-| Rarity | Орц | BVP | Үр дүн |
-|:-:|:-:|:-:|:-:|
-| <Highlight color="#0000ff">Rare</Highlight> | Mutant | 2 | Epic Mutant 3 BVP |
-| <Highlight color="#ff00ff">Epic</Highlight> | Epic Mutant | 3 | Cyborg Mutant 4 BVP |
-| <Highlight color="#ff0000">Legendary</Highlight> | Cyborg Mutant | 4 | Black Cyborg Mutant 8 BVP |
-| <Highlight color="#ffcc00">Immortal</Highlight> | Black Cyborg Mutant | 8 | Dragon Mutan Buha 15 BVP |
+| Rarity | Нэр | BVP |
+|:-:|:-:|:-:|
+| <Highlight color="#0000ff">Rare</Highlight> | Mutant | 2.0 |
+| <Highlight color="#ff00ff">Epic</Highlight> | Epic Mutant | 3.0 |
+| <Highlight color="#ff0000">Legendary</Highlight> | Cyborg Mutant | 4.0 |
+| <Highlight color="#ffcc00">Immortal</Highlight> | Black Cyborg Mutant | 8.0 |
 
 ----
 
@@ -95,11 +96,11 @@ Fusion хийх **Buha** болон түүнээс гарах шинэ **Buha**-
 
 Лууг хоёр төрлийн тоглоомоор аль алингаар гаргаж авах боломжтой. Өөрөөр хэлбэл өндөг дараад луу гаргаж чадаагүй бол, Dragon mutant buha-аа fusion хийж луу үүсгэж болно. 
 
-| Rarity | Орц | BVP | Үр дүн |
-|:-:|:-:|:-:|:-:|
-| <Highlight color="#ff0000">Legendary</Highlight> | Dragon Mutan Buha | 15 | Dragon |
-| <Highlight color="#ffcc00">Immortal</Highlight> | Dragon | 30 | Golden Dragon  |
-| <Highlight color="#ffcc99">Ancient</Highlight> | Golden Dragon | 60 | - |  
+| Rarity | Нэр | BVP |
+|:-:|:-:|:-:|
+| <Highlight color="#ff0000">Legendary</Highlight> | Dragon Mutan Buha | 15.0 |
+| <Highlight color="#ffcc00">Immortal</Highlight> | Dragon | 30.0 |
+| <Highlight color="#ffcc99">Ancient</Highlight> | Golden Dragon | 60.0 |  
 
 
 ---

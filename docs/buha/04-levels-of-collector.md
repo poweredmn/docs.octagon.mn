@@ -6,10 +6,14 @@ sidebar_label: 4. Цуглуулагчийн 6 түвшин
 title: Buha Цуглуулагчийн 6 түвшин
 description: Buha Цуглуулагчийн 6 түвшин
 ---
-
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-
+export const Highlight = ({children, color}) => (
+  <span
+    style={{
+      color: color,
+    }}>
+    {children}
+  </span>
+);
 
 
 Манай **BUHA** клубт аюултай ууртай хэрнээ лаг царайлаг бухнууд болон мета ертөнцийн cyborg бухнуудын цуглуулга бий.
@@ -18,52 +22,43 @@ import TabItem from '@theme/TabItem';
 
 Танд зориулсан дуудлага худалдаа, солилцоо, бүтээгдэхүүний хямдрал, дэлгүүрээр үйлчлүүлэх тусгай эрх гээд таны таашаалд бүрэн нийцэх маш олон хэрэглээ бий.
 
-
-----
-<Tabs>
-  <TabItem value="Collector" label="Collector" default>
-    Нийт BVP : 5
-    Шаардлага : Common BUHA x 5
-  </TabItem>
-  <TabItem value="Rare" label="Rare Collector">
-    Нийт BVP : 10
-    Шаардлага : Common BUHA x 5, Rare BUHA x 2
-  </TabItem>
-  <TabItem value="Golden" label="Golden Collector">
-    Нийт BVP : 25
-    Шаардлага : Common BUHA x 5, Rare BUHA x 2, Golden BUHA x 1, Rare Golden BUHA x 1
-  </TabItem>
-  <TabItem value="Dragon" label="Dragon Collector">
-    Нийт BVP : 60
-    Шаардлага : Common BUHA x 10, Rare BUHA x 5, Dragon x 1
-  </TabItem>
-  <TabItem value="Legend" label="Legend Collector">
-    Нийт BVP : 90
-    Шаардлага : Common BUHA x 10, Rare BUHA x 5, Golden BUHA x 5, Rare Golden BUHA x 2, Dragon x 1
-  </TabItem>
-  <TabItem value="Titan" label="Titan Collector">
-    Нийт BVP : 180
-    Шаардлага : Common BUHA x 10, Rare BUHA x 5, Golden BUHA x 10, Rare Golden BUHA x 5, Dragon x 1, Golden Dragon x 1
-  </TabItem>
-</Tabs>
+|               |    BVP    | Collector | Rare Collector | Golden Collector | Dragon Collector | Legend collector | Titan Collector |
+|:-------------:|:---------:|:---------:|:--------------:|:----------------:|:----------------:|:----------------:|:---------------:|
+|      Buha     |     1     |     5     |        6       |         5        |        10        |        10        |        10       |
+|  Cyborg Buha  |     2     |           |        2       |         2        |         5        |         5        |        7        |
+|  Golden Buha  |    2.5    |           |                |         2*       |         1*       |         5*       |        6*       |
+|  Black Cyborg |    3.5    |           |                |                  |         1**      |         1**      |        2**      |
+| Golden Zombie |     4     |           |                |         2*       |         1*       |         2*       |        5*       |
+| Golden Cyborg |     8     |           |                |         1*       |                  |         2*       |        3*       |
+|     Dragon    |     30    |           |                |                  |         1*       |         1*       |        1*       |
+| Golden Dragon |     60    |           |                |                  |                  |                  |        1*       |
+|               | TOTAL BVP |     5     |       10       |        30        |        60        |        90        |       180       |
 
 
 ----
 
-## **Урамшуулал :**
+<Highlight color="#FF0000">* Зайлшгүй байх шаардлагатай. Бусдыг нь BVP хүрч байвал орлуулж тооцож болно.</Highlight> 
+
+----
+
+<Highlight color="#0000FF">** Black Cyborg Buha эсвэл Black Cyborg Mutant Buha байж болно</Highlight>
+
+----
+
+**Урамшуулал :**
 
 Бидний энэхүү төсөлд итгэж, үнэнч хэрэглэгч байсан та бүхэнд дараах шатны урамшууллыг олгох юм. 
 
 * **Level 1 Collector** - Минт хийх
 * **Level 2 Rare Collector** - Лоялти хямдрал 10%
-* **Level 3 Golden Collector** - Лоялти хямдрал 15%, Merch shop хямдрал, Тусгай Эйрдроп, **Buha** Үдэшлэг урилга
-* **Level 4 Dragon Collector** - Лоялти хямдрал 25%, Merch shop хямдрал, Тусгай Эйрдроп, **Buha** Үдэшлэг урилга
-* **Level 5 Legend Collector** - Лоялти хямдрал 25%, Merch shop хямдрал, Тусгай Эйрдроп, **Buha** Үдэшлэг урилга, Ашиг хүртэх 20%
-* **Level 6 Titan Collector** - Лоялти хямдрал 30%, Merch shop хямдрал, Тусгай Эйрдроп, **Buha** Үдэшлэг урилга, Ашиг хүртэх 30%
+* **Level 3 Golden Collector** - Лоялти хямдрал 15%, Merch shop хямдрал, Тусгай Эйрдроп, **BUHA** Үдэшлэг урилга
+* **Level 4 Dragon Collector** - Лоялти хямдрал 25%, Merch shop хямдрал, Тусгай Эйрдроп, **BUHA** Үдэшлэг урилга
+* **Level 5 Legend Collector** - Лоялти хямдрал 25%, Merch shop хямдрал, Тусгай Эйрдроп, **BUHA** Үдэшлэг урилга, Ашиг хүртэх 20%
+* **Level 6 Titan Collector** - Лоялти хямдрал 30%, Merch shop хямдрал, Тусгай Эйрдроп, **BUHA** Үдэшлэг урилга, Ашиг хүртэх 30%
 
 
-* Лоялти хямдрал - Манай багийн дараа дараагийн цуглуулгыг хямдралтай худалдаж авах боломжтой болох юм. ЖИЧ : Амбассадор код давхар ашиглах боломжгүй.
+* Лоялти хямдрал - Манай багийн дараа дараагийн цуглуулгыг хямдралтай худалдаж авах боломжтой болох юм. ЖИЧ : Ambassador код давхар ашиглах боломжгүй.
 * Merch shop хямдрал - Бидэнтэй хамтрагч байгууллагуудын бараа үйлчилгээг хөнгөлөлттэй үнээр авах эрхтэй болно. Гар утасны апп ашиглалтанд ороход эхний үйлчилгээнүүд нэвтэрч эхэлнээ.
 * Тусгай Эйрдроп - Зөвхөн эдгээр үнэнч хэрэглэгчдэд зориулсан Эйрдроп тусдаа буух болно.
-* **Buha** Үдэшлэг урилга - Буха эзэмшигч та бүхэнд зориулсан уулзалт, ярилцлага, танилцах үдэшлэг зохион байгуулахаар төлөвлөж байна.
+* **BUHA** Үдэшлэг урилга - Буха эзэмшигч та бүхэнд зориулсан уулзалт, ярилцлага, танилцах үдэшлэг зохион байгуулахаар төлөвлөж байна.
 * Ашиг хүртэх - Octagon marketplace-ийн цэвэр ашгийн 50 хувийг хувааж сар бүр тараах юм.
