@@ -21,7 +21,7 @@ export const Highlight = ({children, color}) => (
 
 | Rarity | Name | BVP |
 |:-:|:-:|:-:|
-| <Highlight color="#ffcc00">Legendary</Highlight> | Dragon Mutan Buha | 15 |
+| <Highlight color="#ff0000">Legendary</Highlight> | Dragon Mutan Buha | 15 |
 | <Highlight color="#ffcc00">Immortal</Highlight> | Dragon | 30 |
 | <Highlight color="#ffcc99">Ancient</Highlight> | Golden Dragon | 60 |
 
