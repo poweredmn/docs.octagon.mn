@@ -104,6 +104,12 @@ const config = {
             position: 'left',
             label: 'Angry Red Buha Club',
           },
+          {
+            type: 'doc',
+            docId: 'super-money/intro',
+            position: 'left',
+            label: 'Super.Money NFT',
+          },
           {to: '/blog', label: 'Нийтлэл', position: 'left'},
           // {to: '/news', label: 'Мэдээ мэдээлэл', position: 'left'},
           {
