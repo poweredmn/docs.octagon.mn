@@ -9,24 +9,24 @@ description: Ямар цуглуулга байгаа вэ?
 
 Одоогоор 15 цуглуулгаар **Super.Money NFT** тоглолт эхэлж байна.
 
-Бүгд Open Edition байх бөгөөд худалдаж авсан NFT нэг улирлын тоглолтод хүчинтэй.
+Бүгд Open Edition (Common rarity-тай) байх бөгөөд худалдаж авсан NFT нэг улирлын тоглолтод хүчинтэй.
 
 <ol>
-  <li>Sneaker</li>
-  <li>Cigar</li>
-  <li>Traffic Cone</li>
-  <li>Music</li>
-  <li>Indian Girl</li>
-  <li>Motorcycle</li>
-  <li>Raggae</li>
-  <li>Skull</li>
-  <li>Bomb</li>
-  <li>Zeus</li>
-  <li>Cyborg</li>
-  <li>Devil</li>
-  <li>Coming soon...</li>
-  <li>Coming soon...</li>
-  <li>Coming soon...</li>
+  <li>Super.Bomb</li>
+  <li>Super.Cigar</li>
+  <li>Super.Cyborg</li>
+  <li>Super.Devil</li>
+  <li>Super.Falcon</li>
+  <li>Super.Indian girl</li>
+  <li>Super.Money</li>
+  <li>Super.Moto</li>
+  <li>Super.Music</li>
+  <li>Super.Sneaker</li>
+  <li>Super.TMNT</li>
+  <li>Super.Traffic Cone</li>
+  <li>Super.Zeus</li>
+  <li>Super.Raggae</li>
+  <li>Super.Skull</li>
 </ol> 
 
 
