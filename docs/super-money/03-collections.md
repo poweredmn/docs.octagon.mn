@@ -11,23 +11,21 @@ description: Ямар цуглуулга байгаа вэ?
 
 Бүгд Open Edition (Common rarity-тай) байх бөгөөд худалдаж авсан NFT нэг улирлын тоглолтод хүчинтэй.
 
-<ol>
-  <li>Super.Bomb</li>
-  <li>Super.Cigar</li>
-  <li>Super.Cyborg</li>
-  <li>Super.Devil</li>
-  <li>Super.Falcon</li>
-  <li>Super.Indian girl</li>
-  <li>Super.Money</li>
-  <li>Super.Moto</li>
-  <li>Super.Music</li>
-  <li>Super.Sneaker</li>
-  <li>Super.TMNT</li>
-  <li>Super.Traffic Cone</li>
-  <li>Super.Zeus</li>
-  <li>Super.Raggae</li>
-  <li>Super.Skull</li>
-</ol> 
+[Super.Bomb](/https://octagon.mn/collection/) </br>
+[Super.Cigar](/https://octagon.mn/collection/) </br>
+[Super.Cyborg](/https://octagon.mn/collection/) </br>
+[Super.Devil](/https://octagon.mn/collection/) </br>
+[Super.Falcon](/https://octagon.mn/collection/) </br>
+[Super.Indian girl](/https://octagon.mn/collection/) </br>
+[Super.Money](/https://octagon.mn/collection/) </br>
+[Super.Moto](/https://octagon.mn/collection/) </br>
+[Super.Music](/https://octagon.mn/collection/) </br>
+[Super.Sneaker](/https://octagon.mn/collection/) </br>
+[Super.TMNT](/https://octagon.mn/collection/) </br>
+[Super.Traffic Cone](/https://octagon.mn/collection/) </br>
+[Super.Zeus](/https://octagon.mn/collection/) </br>
+[Super.Raggae](/https://octagon.mn/collection/) </br>
+[Super.Skull](/https://octagon.mn/collection/)
 
 
 
