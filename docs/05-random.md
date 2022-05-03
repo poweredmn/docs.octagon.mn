@@ -1,10 +1,10 @@
 ---
 id: random
 slug: /random
-sidebar_label: Санамсаргүй байдлаар тодруулах аргачлал.
+sidebar_label: Random-оор хэрхэн сонгодог вэ?
 sidebar_position: 5
-title: Санамсаргүй байдлаар тодруулах аргачлал.
-description: Бид санамсаргүй тоог хэрхэн гаргаж авдаг вэ?
+title: Random-оор хэрхэн сонгодог вэ?
+description: Манай систем Random байдлаар яаж тоо гаргадаг тухай.
 ---
 
 

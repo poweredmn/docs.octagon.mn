@@ -1,8 +1,8 @@
 ---
 id: collections
 slug: /super-money/collections
-sidebar_position: 4
-sidebar_label: 4. Ямар NFT байгаа вэ?
+sidebar_position: 3
+sidebar_label: 3. Ямар NFT байгаа вэ?
 title: Ямар NFT байгаа вэ?
 description: Ямар NFT байгаа вэ?
 ---
