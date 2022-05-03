@@ -2,12 +2,12 @@
 id: collections
 slug: /super-money/collections
 sidebar_position: 4
-sidebar_label: 4. Ямар цуглуулга байгаа вэ?
-title: Ямар цуглуулга байгаа вэ?
-description: Ямар цуглуулга байгаа вэ?
+sidebar_label: 4. Ямар NFT байгаа вэ?
+title: Ямар NFT байгаа вэ?
+description: Ямар NFT байгаа вэ?
 ---
 
-Одоогоор 15 цуглуулгаар **Super.Money NFT** тоглолт эхэлж байна.
+Одоогоор 15 **NFT**-тэйгээр **Super.Money NFT** тоглолт эхэлж байна.
 
 Бүгд Open Edition (Common rarity-тай) байх бөгөөд худалдаж авсан NFT нэг улирлын тоглолтод хүчинтэй.
 
