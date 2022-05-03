@@ -11,20 +11,34 @@ description: Ямар цуглуулга байгаа вэ?
 
 Бүгд Open Edition (Common rarity-тай) байх бөгөөд худалдаж авсан NFT нэг улирлын тоглолтод хүчинтэй.
 
-[Super.Bomb](/https://octagon.mn/collection/) </br>
-[Super.Cigar](/https://octagon.mn/collection/) </br>
-[Super.Cyborg](/https://octagon.mn/collection/) </br>
-[Super.Devil](/https://octagon.mn/collection/) </br>
-[Super.Falcon](/https://octagon.mn/collection/) </br>
-[Super.Indian girl](/https://octagon.mn/collection/) </br>
-[Super.Money](/https://octagon.mn/collection/) </br>
-[Super.Moto](/https://octagon.mn/collection/) </br>
-[Super.Music](/https://octagon.mn/collection/) </br>
-[Super.Sneaker](/https://octagon.mn/collection/) </br>
-[Super.TMNT](/https://octagon.mn/collection/) </br>
-[Super.Traffic Cone](/https://octagon.mn/collection/) </br>
-[Super.Zeus](/https://octagon.mn/collection/) </br>
-[Super.Raggae](/https://octagon.mn/collection/) </br>
+[Super.Bomb](/https://octagon.mn/collection/)
+
+[Super.Cigar](/https://octagon.mn/collection/)
+
+[Super.Cyborg](/https://octagon.mn/collection/)
+
+[Super.Devil](/https://octagon.mn/collection/)
+
+[Super.Falcon](/https://octagon.mn/collection/)
+
+[Super.Indian girl](/https://octagon.mn/collection/)
+
+[Super.Money](/https://octagon.mn/collection/)
+
+[Super.Moto](/https://octagon.mn/collection/)
+
+[Super.Music](/https://octagon.mn/collection/)
+
+[Super.Sneaker](/https://octagon.mn/collection/)
+
+[Super.TMNT](/https://octagon.mn/collection/)
+
+[Super.Traffic Cone](/https://octagon.mn/collection/)
+
+[Super.Zeus](/https://octagon.mn/collection/)
+
+[Super.Raggae](/https://octagon.mn/collection/)
+
 [Super.Skull](/https://octagon.mn/collection/)
 
 
