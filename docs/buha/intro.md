@@ -23,15 +23,15 @@ export const Highlight = ({children, color}) => (
 
 **Тус бүр хэд бүтээгдсэнийг хүснэгтээс харна уу?**
 
-| Rarity  | ANGRY RED BUHA CLUB | BVP  | Энгийн | Далавчтай | Нийт |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| <Highlight color="#c0c0c0">Common</Highlight> | Buha | 1 | 4150 | 1000 | 5150 |
-| <Highlight color="#99ccff">Uncommon</Highlight> | Zombie Buha | 1.5 | 1800 | 330 | 2130 |
-| <Highlight color="#0000ff">Rare</Highlight> | Cyborg Buha | 2 | 800 | 150 | 1150 |
-| <Highlight color="#ff00ff">Epic</Highlight> | Golden Buha | 2.5 | 1000 | - | 1000 |
-| <Highlight color="#800080">Mythical</Highlight> | Black Cyborg Buha | 3.5 | 50 | 20 | 70 |
-| <Highlight color="#ff0000">Legendary</Highlight> | Golden Zombie Buha | 4 | 350 | - | 350 |
-| <Highlight color="#ffcc00">Immortal</Highlight> | Golden Cyborg Buha | 8 | 150 | - | 150 |
+| Rarity  | ANGRY RED BUHA CLUB | BVP | Тоо |
+|:-:|:-:|:-:|:-:|
+| <Highlight color="#c0c0c0">Common</Highlight> | Buha | 1 |5150 |
+| <Highlight color="#99ccff">Uncommon</Highlight> | Zombie Buha | 1.5 | 2130 |
+| <Highlight color="#0000ff">Rare</Highlight> | Cyborg Buha | 2 | 1150 |
+| <Highlight color="#ff00ff">Epic</Highlight> | Golden Buha | 2.5 | 1000 |
+| <Highlight color="#800080">Mythical</Highlight> | Black Cyborg Buha | 3.5 | 70 |
+| <Highlight color="#ff0000">Legendary</Highlight> | Golden Zombie Buha | 4 | 350 |
+| <Highlight color="#ffcc00">Immortal</Highlight> | Golden Cyborg Buha | 8 | 150 |
 
 **Хэдэн Mutant BUHA болон Dragon байх нь тоглогчдоос хамаарна.**
 
