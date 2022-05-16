@@ -26,7 +26,7 @@ export const Highlight = ({children, color}) => (
 | Rarity  | ANGRY RED BUHA CLUB | BVP  | Энгийн | Далавчтай | Нийт |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | <Highlight color="#c0c0c0">Common</Highlight> | Buha | 1 | 4150 | 1000 | 5150 |
-| <Highlight color="#99ccff">Uncommon</Highlight> | Zombie Buha | 1.5 | 2000 | 330 | 2330 |
+| <Highlight color="#99ccff">Uncommon</Highlight> | Zombie Buha | 1.5 | 1800 | 330 | 2130 |
 | <Highlight color="#0000ff">Rare</Highlight> | Cyborg Buha | 2 | 800 | 150 | 1150 |
 | <Highlight color="#ff00ff">Epic</Highlight> | Golden Buha | 2.5 | 1000 | - | 1000 |
 | <Highlight color="#800080">Mythical</Highlight> | Black Cyborg Buha | 3.5 | 50 | 20 | 70 |
