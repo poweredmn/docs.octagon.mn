@@ -1,40 +1,41 @@
-# docs.octagon.mn
+# PCC-ARCHIVE.ORG
+
+Repo for [pcc-archive.org](https://pcc-archive.org). Me, @CuratorCat started this project for the PCC Community, currently maintained by @CuratorCat.
+
+Learn more about this project at [./src/pages/about.md](./src/pages/about.md).
+
+## Content
+
+- `wiki` dir: all wikis for PCC
+- `posts` dir: web posts, media from and about PCC
+- `welovethepurrs` dir: web posts, stories on people showing their loves for purrs
+
+## Contribute
+
+Anyone is welcomed to contribute to this project. Read more at [./src/pages/contriubute.md](./src/pages/contribute.md).
+
+## Dev
+
+This project is using docusaurus.
 
 ### Installation
 
-```shell
-npm i
+```
+$ yarn
 ```
 
 ### Local Development
 
-```shell
-npm start
 ```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+$ yarn start
+```
 
 ### Build
 
-```shell
-npm run build
+```
+$ yarn build
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+### Deploy
 
-### Deployment
-
-Using SSH:
-
-```shell
-USE_SSH=true npm run deploy
-```
-
-Not using SSH:
-
-```shell
-GIT_USER=poweredmn npm run deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
-Repo user Personal access token required!!!
+Currently deployed using Vercel for the `main` branch in this repo.
