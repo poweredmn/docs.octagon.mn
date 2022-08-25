@@ -11,7 +11,7 @@ description: Албан ёсны мэдээллийн сувгууд
 ### Octagon Marketplace website
 
 - [Marketplaces](https://octagon.mn/)
-- [OpenSea](https://opensea.io/collection/)
+- [OpenSea](https://opensea.io/collection/buha)
 
 ### Socials {#Socials}
 
