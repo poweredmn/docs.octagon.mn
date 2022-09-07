@@ -14,6 +14,42 @@ import Staking from "../components/Homepage/Staking";
 export default function Home() {
   //https://github.com/HiDeoo/intro.js-react
   const { siteConfig } = useDocusaurusContext();
+  const steps = [
+    {
+      element: '.highlightClass-0',
+      intro: 'Хөгжүүлэлттэй холбоотой постууд',
+      position: 'left',
+    },
+    {
+      element: '.highlightClass-1',
+      intro: 'Крипто ертөнцийн эргэн тойронд',
+      position: 'top',
+
+    },
+    {
+      element: '.highlightClass-2',
+      intro: 'Хэвлэл мэдээллийн сувгуудаар цацагдсан манай контентууд',
+      position: 'top',
+
+    },
+    {
+      element: '.highlightClass-3',
+      intro: 'Тайлбар бичлэгүүд',
+      position: 'top',
+    },
+    {
+      element: '.highlightClass-4',
+      intro: 'Хэрэглэгчиддээ зориулсан бүх төрлийн сургалтууд',
+      position: 'right',
+    },
+  ];
+  const hints = [
+    {
+      element: '.highlightClass-0',
+      hint: 'Хөгжүүлэлтийн долоо хоног бүрийн мэдээлэл энд орж байх болно.',
+      hintPosition: 'top-right',
+    },
+  ];
   return (
     <Layout
       title={`Тавтай морил`}
@@ -28,6 +64,16 @@ export default function Home() {
             <Collections />
           </section>
           <Posts />
+          <Steps
+            enabled={true}
+            steps={steps}
+            initialStep={0}
+            onExit={null}
+          />
+          <Hints
+            enabled={true}
+            hints={hints}
+          />
           <Staking />
         </main>
       </LayoutTw>
