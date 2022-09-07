@@ -1,16 +1,18 @@
-import React from 'react';
-import Layout from '@theme/Layout';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import LayoutTw from '@site/src/theme/LayoutTw';
-
-import Announcement from '../components/Homepage/Announcement';
-import Hero from '../components/Homepage/Hero';
-import Club from '../components/Homepage/Club';
-import Collections from '../components/Homepage/Collections';
-import Posts from '../components/Homepage/Posts';
-import Staking from '../components/Homepage/Staking';
+import React from "react";
+import Layout from "@theme/Layout";
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
+import LayoutTw from "@site/src/theme/LayoutTw";
+import "intro.js/introjs.css";
+import { Steps, Hints } from "intro.js-react";
+import Announcement from "../components/Homepage/Announcement";
+import Hero from "../components/Homepage/Hero";
+import Club from "../components/Homepage/Club";
+import Collections from "../components/Homepage/Collections";
+import Posts from "../components/Homepage/Posts";
+import Staking from "../components/Homepage/Staking";
 
 export default function Home() {
+  //https://github.com/HiDeoo/intro.js-react
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
