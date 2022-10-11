@@ -24,7 +24,7 @@ Fusion хийх тоглоом нь хэрэглэгчдэд өөрт байга
 
 ![](./assets/fusion.png)
 
-Fusion хийх процесс Common Buha-аас эхлээд Golden Dragon хүртэл явах боломжтой.Энэ тоглоом одоогоор зөвхөн Angry Red Buha цувралд хүчинтэй.
+Fusion хийх процесс Common Buha-аас эхлээд Dragon хүртэл явах боломжтой.Энэ тоглоом одоогоор зөвхөн Angry Red Buha цувралд хүчинтэй.
 Хэрхэн тоглох тухай заавар бичлэг орууллаа.
 https://youtu.be/1T1diD9Gsxg
 

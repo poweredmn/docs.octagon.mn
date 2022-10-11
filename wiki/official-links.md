@@ -10,7 +10,7 @@ description: Албан ёсны мэдээллийн сувгууд
 
 ### Octagon Marketplace website
 
-- [Marketplaces](https://octagon.mn/)
+- [Marketplaces](https://octagon.mn/nft)
 - [OpenSea](https://opensea.io/collection/buha)
 
 ### Socials {#Socials}
@@ -21,5 +21,4 @@ description: Албан ёсны мэдээллийн сувгууд
 
 ### Official Members {#Officials}
 
-- [@Bobi](https://octagon.mn/)
-- [@](https://octagon.mn/)
+- [@Bobi](https://www.instagram.com/batbayarx/)

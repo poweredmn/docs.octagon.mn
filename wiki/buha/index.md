@@ -21,11 +21,11 @@ Buha NFT эзэмшигчид ARBC-т нэгдэн олон үйл ажилла�
 
 ARBC нь одоогоор 5 цуглуулгаас бүрдэж байгаа. Үүнд : Buha, Mutant Buha, Year of Tiger 2022 , Buha Naadam Collection болон Dragon.
 
-### Buha (Common) <sup> BVP : 1</sup>
+### Buha (Common) <sup> 1.0 BVP оноо</sup>
 
 <span className="wikiPostListImgR">
 
-[![](../buha/assets/buha.jpg)](../buha/index.md)
+[![](../buha/assets/buha.png)](../buha/index.md)
 
 </span>
 
@@ -35,11 +35,11 @@ ARBC нь одоогоор 5 цуглуулгаас бүрдэж байгаа. �
 
 Минт хийсэн огноо : 2022.
 
-### Zombie Buha (Uncommon)<sup>BVP : 1.5</sup>
+### Zombie Buha (Uncommon)<sup>1.5 BVP оноо</sup>
 
 <span className="wikiPostListImgR">
 
-[![](../buha/assets/zombie.jpg)](../buha/index.md)
+[![](../buha/assets/zombie.png)](../buha/index.md)
 
 </span>
 
@@ -49,11 +49,11 @@ ARBC нь одоогоор 5 цуглуулгаас бүрдэж байгаа. �
 
 Минт хийсэн огноо : 2022.
 
-### Cyborg Buha (Rare) <sup>BVP : 2</sup>
+### Cyborg Buha (Rare) <sup>2.0 BVP оноо</sup>
 
 <span className="wikiPostListImgR">
 
-[![](../buha/assets/cyborg.jpg)](../buha/index.md)
+[![](../buha/assets/cyborg.png)](../buha/index.md)
 
 </span>
 
@@ -63,11 +63,11 @@ ARBC нь одоогоор 5 цуглуулгаас бүрдэж байгаа. �
 
 Минт хийсэн огноо : 2022.
 
-### Golden Buha (Epic) <sup>BVP : 2.5</sup>
+### Golden Buha (Epic) <sup>2.5 BVP оноо</sup>
 
 <span className="wikiPostListImgR">
 
-[![](../buha/assets/golden.jpg)](../buha/index.md)
+[![](../buha/assets/golden.png)](../buha/index.md)
 
 </span>
 
@@ -77,11 +77,11 @@ ARBC нь одоогоор 5 цуглуулгаас бүрдэж байгаа. �
 
 Минт хийсэн огноо : 2022.
 
-### Black Cyborg Buha (Mythical) <sup>BVP : 3.5</sup>
+### Black Cyborg Buha (Mythical) <sup>3.5 BVP оноо</sup>
 
 <span className="wikiPostListImgR">
 
-[![](../buha/assets/black-cyborg.jpg)](../buha/index.md)
+[![](../buha/assets/black-cyborg.png)](../buha/index.md)
 
 </span>
 
@@ -91,11 +91,11 @@ ARBC нь одоогоор 5 цуглуулгаас бүрдэж байгаа. �
 
 Минт хийсэн огноо : 2022.
 
-### Golden Zombie Buha (Legendary) <sup>BVP : 4</sup>
+### Golden Zombie Buha (Legendary) <sup>4.0 BVP оноо</sup>
 
 <span className="wikiPostListImgR">
 
-[![](../buha/assets/golden-zombie.jpg)](../buha/index.md)
+[![](../buha/assets/golden-zombie.png)](../buha/index.md)
 
 </span>
 
@@ -105,11 +105,11 @@ ARBC нь одоогоор 5 цуглуулгаас бүрдэж байгаа. �
 
 Минт хийсэн огноо : 2022.
 
-### Golden Cyborg Buha (Immortal) <sup>BVP : 8</sup>
+### Golden Cyborg Buha (Immortal) <sup>8.0 BVP оноо</sup>
 
 <span className="wikiPostListImgR">
 
-[![](../buha/assets/golden-cyborg.jpg)](../buha/index.md)
+[![](../buha/assets/golden-cyborg.png)](../buha/index.md)
 
 </span>
 
@@ -121,11 +121,11 @@ ARBC нь одоогоор 5 цуглуулгаас бүрдэж байгаа. �
 
 ## Мутант Буханууд {#Mutant}
 
-### Mutant Buha (Rare) <sup>BVP : 2</sup>
+### Mutant Buha (Rare) <sup>2.0 BVP оноо</sup>
 
 <span className="wikiPostListImgR">
 
-[![](../buha/assets/mutant.jpg)](../buha/index.md)
+[![](../buha/assets/mutant.png)](../buha/index.md)
 
 </span>
 
@@ -135,11 +135,11 @@ ARBC нь одоогоор 5 цуглуулгаас бүрдэж байгаа. �
 
 Минт хийсэн огноо : 2022.
 
-### Zombie Mutant Buha (Epic) <sup>BVP : 3</sup>
+### Zombie Mutant Buha (Epic) <sup>3 BVP оноо</sup>
 
 <span className="wikiPostListImgR">
 
-[![](../buha/assets/mutant-zombie.jpg)](../buha/index.md)
+[![](../buha/assets/mutant-zombie.png)](../buha/index.md)
 
 </span>
 
@@ -149,11 +149,11 @@ ARBC нь одоогоор 5 цуглуулгаас бүрдэж байгаа. �
 
 Минт хийсэн огноо : 2022.
 
-### Cyborg Mutant Buha (Legendary) <sup>BVP : 4</sup>
+### Cyborg Mutant Buha (Legendary) <sup>4.0 BVP оноо</sup>
 
 <span className="wikiPostListImgR">
 
-[![](../buha/assets/mutant-cyborg.jpg)](../buha/index.md)
+[![](../buha/assets/mutant-cyborg.png)](../buha/index.md)
 
 </span>
 
@@ -163,11 +163,11 @@ ARBC нь одоогоор 5 цуглуулгаас бүрдэж байгаа. �
 
 Минт хийсэн огноо : 2022.
 
-### Black Cyborg Mutant Buha (Immortal) <sup>BVP : 8</sup>
+### Black Cyborg Mutant Buha (Immortal) <sup>8.0 BVP оноо</sup>
 
 <span className="wikiPostListImgR">
 
-[![](../buha/assets/mutant-black-cyborg.jpg)](../buha/index.md)
+[![](../buha/assets/mutant-black-cyborg.png)](../buha/index.md)
 
 </span>
 
@@ -179,11 +179,11 @@ ARBC нь одоогоор 5 цуглуулгаас бүрдэж байгаа. �
 
 ## Луу гэр бүл {#Dragon}
 
-### Egg (Common) <sup>BVP : 10</sup>
+### Egg (Common) <sup>10.0 BVP оноо</sup>
 
 <span className="wikiPostListImgR">
 
-[![](../buha/assets/egg.jpg)](../buha/index.md)
+[![](../buha/assets/egg.png)](../buha/index.md)
 
 </span>
 
@@ -193,7 +193,7 @@ ARBC нь одоогоор 5 цуглуулгаас бүрдэж байгаа. �
 
 Минт хийсэн огноо : 2022.
 
-### Golden Egg (Rare) <sup>BVP : 20</sup>
+### Golden Egg (Rare) <sup>20.0 BVP оноо</sup>
 
 <span className="wikiPostListImgR">
 
@@ -207,11 +207,11 @@ ARBC нь одоогоор 5 цуглуулгаас бүрдэж байгаа. �
 
 Минт хийсэн огноо : 2022.
 
-### Dragon Mutant Buha (Legendary) <sup>BVP : 15</sup>
+### Dragon Mutant Buha (Legendary) <sup>15 BVP оноо</sup>
 
 <span className="wikiPostListImgR">
 
-[![](../buha/assets/mutant-dragon.jpg)](../buha/index.md)
+[![](../buha/assets/mutant-dragon.png)](../buha/index.md)
 
 </span>
 
@@ -221,11 +221,11 @@ ARBC нь одоогоор 5 цуглуулгаас бүрдэж байгаа. �
 
 Минт хийсэн огноо : 2022.
 
-### Dragon (Immortal) <sup>BVP : 30</sup>
+### Dragon (Immortal) <sup>30.0 BVP оноо</sup>
 
 <span className="wikiPostListImgR">
 
-[![](../buha/assets/dragon.jpg)](../buha/index.md)
+[![](../buha/assets/dragon.png)](../buha/index.md)
 
 </span>
 
@@ -235,7 +235,7 @@ ARBC нь одоогоор 5 цуглуулгаас бүрдэж байгаа. �
 
 Минт хийсэн огноо : 2022.
 
-### Golden Dragon (Ancient) <sup>BVP : 60</sup>
+### Golden Dragon (Ancient) <sup>60.0 BVP оноо</sup>
 
 <span className="wikiPostListImgR">
 
