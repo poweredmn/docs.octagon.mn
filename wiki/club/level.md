@@ -19,54 +19,68 @@ image: /img/cover/arbc.jpg
 src="/img/level/1.png"
 className="Collector"
 />
+<br></br>
 
 ### Collector {#Collector}
 
-- **Common Buha X 5**
+<br></br><br></br>
+
+- **Common Buha : 5**
 
 <img
 src="/img/level/2.png"
 className="Collector"
 />
+<br></br>
 
 ### Rare Collector {#Rare}
 
-- **Common Buha X 6**
-- **Cyborg Buha X 2**
+<br></br><br></br>
+
+- **Common Buha : 6**
+- **Cyborg Buha : 2**
 
 <img
 src="/img/level/3.png"
 className="Collector"
 />
+<br></br>
 
 ### Golden Collector {#golden}
 
-- **Common Buha X 5**
-- **Cyborg Buha X 2**
-- **Golden Buha X 2\***
-- **Golden Zombie X 2\***
-- **CGolden Cyborg X 1\***
+<br></br><br></br>
+
+- **Common Buha : 5**
+- **Cyborg Buha : 2**
+- **Golden Buha : 2\***
+- **Golden Zombie : 2\***
+- **CGolden Cyborg : 1\***
 
 <img
 src="/img/level/5.png"
 className="Collector"
 />
 
+<br></br>
+
 ### Dragon Collector {#dragon}
 
-- **Common Buha X 10**
-- **Cyborg Buha X 5**
-- **Golden Buha X 1\***
-- **Black Cyborg Buha X 1\*\***
-- **Golden Zombie X 1\***
-- **Dragon X 1\***
+- **Common Buha : 10**
+- **Cyborg Buha : 5**
+- **Golden Buha : 1\***
+- **Black Cyborg Buha : 1\*\***
+- **Golden Zombie : 1\***
+- **Dragon : 1\***
 
 <img
 src="/img/level/4.png"
 className="Collector"
 />
+<br></br>
 
 ### Legendary Collector {#legendary}
+
+<br></br><br></br>
 
 - **Common Buha X 10**
 - **Cyborg Buha X 5**
@@ -80,6 +94,7 @@ className="Collector"
 src="/img/level/6.png"
 className="Collector"
 />
+<br></br>
 
 ### Titan Collector {#titan}
 
