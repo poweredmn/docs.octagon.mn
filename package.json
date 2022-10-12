@@ -24,7 +24,7 @@
     "autoprefixer": "^10.4.4",
     "clsx": "^1.1.1",
     "docusaurus-plugin-sass": "^0.2.2",
-    "got": "^12.5.1",
+    "got": "^12.5.2",
     "intro.js": "^6.0.0",
     "intro.js-react": "^0.7.0",
     "postcss": "^8.4.12",
