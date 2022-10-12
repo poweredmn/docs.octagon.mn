@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_octagon_mn=self.webpackChunkdocs_octagon_mn||[]).push([[4439],{7931:s=>{s.exports=JSON.parse('{"label":"learn","permalink":"/posts/tags/learn","allTagsPath":"/posts/tags","count":3}')}}]);

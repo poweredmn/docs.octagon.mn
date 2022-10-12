@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_octagon_mn=self.webpackChunkdocs_octagon_mn||[]).push([[1446],{9046:s=>{s.exports=JSON.parse('{"label":"explain","permalink":"/posts/tags/explain","allTagsPath":"/posts/tags","count":3}')}}]);

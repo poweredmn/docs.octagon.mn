@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://docs.octagon.mn/posts</id>
+    <title>Octagon DOCS Blog</title>
+    <updated>2022-08-17T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://docs.octagon.mn/posts"/>
+    <subtitle>Octagon DOCS Blog</subtitle>
+    <icon>https://docs.octagon.mn/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SocialPay холбогдлоо]]></title>
+        <id>/2022/08/17/News/</id>
+        <link href="https://docs.octagon.mn/posts/2022/08/17/News/"/>
+        <updated>2022-08-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Дансаа цэнэглэхэд илүү хялбар боллоо🚀✅]]></summary>
+        <content type="html"><![CDATA[<p>Дансаа цэнэглэхэд илүү хялбар боллоо🚀✅</p><p>📌Та social pay аппликейшнээ ашиглаж Octagon маркетплåэйс дээрх дансаа хялбар бас хурдан хугацаанд цэнэглэх боломжтой боллоо😎</p><p>Илүү күүл хөгжүүлэлтүүд ч хийгдсээр‼️🔥🔥</p><p>Wallet app татах: onelink.to/octagon.mn</p><p><img loading="lazy" src="/assets/images/socialpay-369f5466e02dc77624427dbc774e8ae6.jpg" width="1280" height="1280" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Matador</name>
+            <uri>https://www.facebook.com/orgildinio</uri>
+        </author>
+        <category label="news" term="news"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 Week 32]]></title>
+        <id>/Development/2022w32</id>
+        <link href="https://docs.octagon.mn/posts/Development/2022w32"/>
+        <updated>2022-08-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Weekly Update]]></summary>
+        <content type="html"><![CDATA[<p>Хөгжүүлэлтийн явцийг бичиж байх төлөвлөгөө гаргав.</p><p><img loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAeAAAAFoCAYAAACPNyggAAAAAXNSR0IArs4c6QAAAFBlWElmTU0AKgAAAAgAAgESAAMAAAABAAEAAIdpAAQAAAABAAAAJgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAB4KADAAQAAAABAAABaAAAAAAVHJQ9AAABWWlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNi4wLjAiPgogICA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogICAgICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIgogICAgICAgICAgICB4bWxuczp0aWZmPSJodHRwOi8vbnMuYWRvYmUuY29tL3RpZmYvMS4wLyI+CiAgICAgICAgIDx0aWZmOk9yaWVudGF0aW9uPjE8L3RpZmY6T3JpZW50YXRpb24+CiAgICAgIDwvcmRmOkRlc2NyaXB0aW9uPgogICA8L3JkZjpSREY+CjwveDp4bXBtZXRhPgoZXuEHAAAL30lEQVR4Ae3QMQEAAADCoPVPbQwfiEBhwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGPgMDI3+AAEeFvcCAAAAAElFTkSuQmCC" width="480" height="360" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Matador</name>
+            <uri>https://www.facebook.com/orgildinio</uri>
+        </author>
+        <category label="dev" term="dev"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ambassadors хөтөлбөр шинэчлэгдлээ]]></title>
+        <id>/Learning/what-is-ambassador</id>
+        <link href="https://docs.octagon.mn/posts/Learning/what-is-ambassador"/>
+        <updated>2022-06-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🔥Ambassador 2.0 хөтөлбөрийг танилцуулж байна.🔥💰]]></summary>
+        <content type="html"><![CDATA[<p>🔥Ambassador 2.0 хөтөлбөрийг танилцуулж байна.🔥💰</p><p>Ууртай улаан бухнууд коммюнити боломжуудыг бусдад танилцуулаад урамшуулал хүртдэг “Ambassador” хөтөлбөр шинэчлэгдэж “Илүү олуулаа, илүү урамшуулал хүртэх” боломжийг нээж байна.📈</p><p>📌Таны #referral код 5 удаа ашиглагдах бүрт таны хэтэвчинд нэг Буха NFT нэмэгдэх ба таны цолоос шалтгаалж кодыг тань ашиглаж буй хүн 5-25%-ийн хөнгөлөлт эдлэх болно😱🚀</p><p>Өөрийн “Ambassador” кодыг үүсгэх: <a href="https://octagon.mn/" target="_blank" rel="noopener noreferrer">https://octagon.mn/</a>
+#nft #nftcommunity #nftcollector</p><p><img loading="lazy" src="/assets/images/2022-06-16-1-274cb8177c8d4761a3bb7ff4cc145ad3.jpg" width="1440" height="1440" class="img_ev3q"> <img loading="lazy" src="/assets/images/2022-06-16-2-94f04564a2ca9577339c788dd45b979f.jpg" width="1440" height="1440" class="img_ev3q"></p><p><img loading="lazy" src="/assets/images/2022-06-16-3-c0c4de13f3fdb6fbc7a364017ed16e89.jpg" width="1440" height="1440" class="img_ev3q"> <img loading="lazy" src="/assets/images/2022-06-16-4-8eb63c25f81222881e6c190ad55e51ec.jpg" width="1440" height="1440" class="img_ev3q"></p><p><img loading="lazy" src="/assets/images/2022-06-16-5-6bffc62da1d094fd7940c05f0f61a91f.jpg" width="1440" height="1440" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Matador</name>
+            <uri>https://www.facebook.com/orgildinio</uri>
+        </author>
+        <category label="learn" term="learn"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lemon Press : Крипто зах зээлийн уналтын шалтгаан]]></title>
+        <id>/2022/08/03/Podcast/</id>
+        <link href="https://docs.octagon.mn/posts/2022/08/03/Podcast/"/>
+        <updated>2022-05-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Octagon Marketplace-ийн хамтран үүсгэн байгуулагч, гүйцэтгэх захирал Н.Батбаяр уригдан NFT зах зээл болон крипто салбарт яг одоо ямар үйл явдал өрнөж буй талаар ярилцлаа. ]]></summary>
+        <content type="html"><![CDATA[<iframe src="https://www.youtube.com/embed/bDrv2at1j5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><p>Lunch Hour подкастын шинэ улиралд тавтай морил. Подкастын энэ дугаарт Octagon Marketplace-ийн хамтран үүсгэн байгуулагч, гүйцэтгэх захирал Н.Батбаяр уригдан NFT зах зээл болон крипто салбарт яг одоо ямар үйл явдал өрнөж буй талаар ярилцлаа.</p><p>Octagon Marketplace - <a href="https://octagon.mn/" target="_blank" rel="noopener noreferrer">https://octagon.mn/</a></p><p>Angry Red Buha NFT - <a href="https://www.buha.mn/" target="_blank" rel="noopener noreferrer">https://www.buha.mn/</a></p><p>Төслийн талаар дэлгэрэнгүй - <a href="https://docs.octagon.mn" target="_blank" rel="noopener noreferrer">https://docs.octagon.mn</a></p>]]></content>
+        <author>
+            <name>Matador</name>
+            <uri>https://www.facebook.com/orgildinio</uri>
+        </author>
+        <category label="podcast" term="podcast"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Octagon marketplace гэж юу вэ?]]></title>
+        <id>/Explain/202201-marketplace</id>
+        <link href="https://docs.octagon.mn/posts/Explain/202201-marketplace"/>
+        <updated>2022-02-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Octagon NFT marketplace нь одоогоор 7 төрлийн хэрэглүүртэй NFT худалдаалах, Монголын уран бүтээлчдийн өвөрмөц бүтээлийг Mint хийх болон хөрөнгөтэй холбоотой харилцааг зохицуулах нэгдсэн платформ юм.]]></summary>
+        <content type="html"><![CDATA[<p>Octagon NFT marketplace нь одоогоор 7 төрлийн хэрэглүүртэй NFT худалдаалах, Монголын уран бүтээлчдийн өвөрмөц бүтээлийг Mint хийх болон хөрөнгөтэй холбоотой харилцааг зохицуулах нэгдсэн платформ юм.</p><p>Бид үйл ажиллагаагаа зөвхөн NFT-гээр хязгаарлахгүйгээр, цаашдаа криптовалютийн биржийг гаргах, marketplace-ийг DAO болж хөгжүүлэх хэтийн төлөвлөгөөтэйгөөр ажиллаж байна. Манай хөгжүүлэлтэд бусад койнуудыг хууль зүйн зөвшөөрөлтэй орчинд ашиглах , хөрвүүлэх, түүнлэн NFT зах зээлд оролцох гайхалтай боломж нэмэгдэх болно.</p>]]></content>
+        <author>
+            <name>Matador</name>
+            <uri>https://www.facebook.com/orgildinio</uri>
+        </author>
+        <category label="explain" term="explain"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Airdrop гэж юу вэ?]]></title>
+        <id>/Explain/202202-airdrop</id>
+        <link href="https://docs.octagon.mn/posts/Explain/202202-airdrop"/>
+        <updated>2022-02-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Angry Red Buha-гийн үнэнч цуглуулагч, Octagon marketplace-ийн байнгын хэрэглэгчдээ урамшуулах зорилгоор бид санамсаргүй байдлаар сонгож нэг эсвэл бүр бүгдэд нь ч бэлэг өгөх юм. Airdrop-д оролцох маш энгийн бөгөөд доорх даалгавруудыг биелүүлснээр азаа үзэж NFT цуглуулгаа баяжуулах боломжтой. AirDop бүр өөр өөрийн шаардлагатай байх юм. Жишээ даалгаваруудыг доор харуулав.]]></summary>
+        <content type="html"><![CDATA[<p>Angry Red Buha-гийн үнэнч цуглуулагч, Octagon marketplace-ийн байнгын хэрэглэгчдээ урамшуулах зорилгоор бид санамсаргүй байдлаар сонгож нэг эсвэл бүр бүгдэд нь ч бэлэг өгөх юм. Airdrop-д оролцох маш энгийн бөгөөд доорх даалгавруудыг биелүүлснээр азаа үзэж NFT цуглуулгаа баяжуулах боломжтой. AirDop бүр өөр өөрийн шаардлагатай байх юм. Жишээ даалгаваруудыг доор харуулав.</p><p><strong>Сайтын үндсэн үйл ажиллагаатай холбоотой даалгаврууд :</strong></p><ul><li>Хувийн мэдээллээ үнэн зөв оруулах</li><li>Данс холбох</li><li>Дансаа нэг удаа цэнэглэх гэх мэт.</li></ul><p><strong>Сайтын маркетинг суртчилгаатай холбоотой даалгаврууд :</strong></p><ul><li>Discord чатанд орох</li><li>Youtube суваг subscribe хийх.</li><li>Instagram дагах гэх мэт.</li></ul><p><strong>Мөн тухайн цуглуулгын онцлогт тохирсон даалгаврууд :</strong></p><ul><li>Тухайн цуглуулгаас NFT эзэмшдэг байх</li><li>Тухайн цуглуулгаас тодорхой тооны NFT-д зүрх дарсан байх гэх мэт.</li></ul><p>Та манай мэдээлэл түгээх социал сувгуудад нэгдсэнээр цаг алдалгүй шинэ airdrop-ийн мэдээ хүлээж авах боломжтой.</p>]]></content>
+        <author>
+            <name>Matador</name>
+            <uri>https://www.facebook.com/orgildinio</uri>
+        </author>
+        <category label="explain" term="explain"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAO болж хөгжихийн ач холбогдол]]></title>
+        <id>/Explain/202202-dao</id>
+        <link href="https://docs.octagon.mn/posts/Explain/202202-dao"/>
+        <updated>2022-02-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Octagon marketplace хөгжлийнхөө явцад DAO буюу төвлөрсөн бус удирдлагатайгаар үйл ажиллагаагаа зохицуулж явах юм.]]></summary>
+        <content type="html"><![CDATA[<p>Octagon marketplace хөгжлийнхөө явцад DAO буюу төвлөрсөн бус удирдлагатайгаар үйл ажиллагаагаа зохицуулж явах юм.</p><p>Та Angry Red Buha Club-ын гишүүн байх нь танд Octagon зах зээл дээр өөрийн үзэл бодол, санал шүүмжээ илэрхийлэх боломжийг олгоно. Таны цуглуулгын түвшин таны эрх мэдлийг илэрхийлэх нэрийн хуудас болох юм.</p><p>Та өндөр түвшний цуглуулагч бол илүү саналын эрхтэй байх юм. Өөрөөр хэлбэл таны цуглуулга өндөр түвшний үнэ цэнэтэй байх тусам та илүү их хувьцаа эзэмшиж байгаатай ижил зарчмаар ажиллана.</p>]]></content>
+        <author>
+            <name>Matador</name>
+            <uri>https://www.facebook.com/orgildinio</uri>
+        </author>
+        <category label="explain" term="explain"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Орлого/Зарлага хийх?]]></title>
+        <id>/Learning/how-to-balance</id>
+        <link href="https://docs.octagon.mn/posts/Learning/how-to-balance"/>
+        <updated>2022-02-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Хэрхэн данс цэнэглэх тухай заавар бичлэг :]]></summary>
+        <content type="html"><![CDATA[<p>Хэрхэн данс цэнэглэх тухай заавар бичлэг :</p><iframe src="https://www.youtube.com/embed/mttPofGpj3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><p>Хэрхэн банкны дансруугаа зарлага тухай заавар бичлэг :</p><iframe src="https://www.youtube.com/embed/Z49BCw_zQBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><p>Одоогоор зөвхөн Хаан, Голомт банкны төгрөгийн данс холбох боломжтой байгаа бөгөөд тун удахгүй бусад банк, төрөл бүрийн крипто валют ашиглах боломжийг нээж өгөхөөр хөгжүүлэлт хийгдэж байна.</p><div class="theme-admonition theme-admonition-info alert alert--info admonition_LlT9"><div class="admonitionHeading_tbUL"><span class="admonitionIcon_kALy"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>info</div><div class="admonitionContent_S0QG"><p>Таны платформ бүртгүүлсэн овог нэр, ашиглаж буй дансны овог нэртэй таарч байх ёстойг анхаарна уу.</p></div></div>]]></content>
+        <author>
+            <name>Matador</name>
+            <uri>https://www.facebook.com/orgildinio</uri>
+        </author>
+        <category label="learn" term="learn"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Octagon marketplace-д хэрхэн бүртгүүлэх вэ?]]></title>
+        <id>/Learning/how-to-register</id>
+        <link href="https://docs.octagon.mn/posts/Learning/how-to-register"/>
+        <updated>2022-02-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Бүртгэл үүсгэхийн тулд та ЭНД дарна уу.]]></summary>
+        <content type="html"><![CDATA[<p>Бүртгэл үүсгэхийн тулд та <a href="https://octagon.mn/register" target="_blank" rel="noopener noreferrer">ЭНД</a> дарна уу.</p><p>Бүртгэл үүсгэхэд анхаарах зүйлс:</p><p>Имэйл цэсэд өөрийн бусадтай хуваалцдаггүй ч идэвхтэй ашигладаг имэйл хаягийг оруулна уу.</p><p>Нууц үгээ сонгохдоо аюулгүй байдлын үүднээс тоо, тэмдэгт, том жижиг үсгээс бүрдүүлнэ үү. Мөн таны утасны дугаар, нэр, овог, регистрийн дугаар гэх мэт бусад хүмүүс мэдэж болох үгс ашиглахаас татгалзана уу.</p><p>Профайл хэсэгт та өөрийн овог нэр, утасны дугаар, регистрийн дугаараа үнэн зөв бөглөнө үү.</p><p>Аюулгүй байдлын үүднээс two-factor authentification-ийг идэвхжүүлэхтэй шаардлагатай байгааг анхаарна уу.</p>]]></content>
+        <author>
+            <name>Matador</name>
+            <uri>https://www.facebook.com/orgildinio</uri>
+        </author>
+        <category label="learn" term="learn"/>
+    </entry>
+</feed>
