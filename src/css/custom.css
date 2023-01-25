@@ -1,0 +1,13 @@
+:root {
+  --ifm-color-primary-lightest: #4175e0;
+  --ifm-color-primary-lighter: #4175e0;
+  --ifm-color-primary-light: #4175e0;
+  --ifm-color-primary: #4175e0;
+  --ifm-color-primary-dark: #4175e0;
+  --ifm-color-primary-darker: #4175e0;
+  --ifm-color-primary-darkest: #4175e0;
+}
+
+.clean-btn {
+  color: var(--ifm-navbar-link-color);
+}
