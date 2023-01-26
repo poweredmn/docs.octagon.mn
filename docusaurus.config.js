@@ -14,7 +14,7 @@ module.exports = {
   onBrokenMarkdownLinks: "log",
   favicon: "img/favicon.png",
   organizationName: "poweredmn",
-  projectName: "docs",
+  projectName: "docs.octagon.mn", // Usually your repo name.
   // scripts: ["https://buttons.github.io/buttons.js"],
   trailingSlash: true,
 
