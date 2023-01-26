@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs_octagon_mn=self.webpackChunkdocs_octagon_mn||[]).push([[7874],{1534:s=>{s.exports=JSON.parse('{"permalink":"/posts/tags/dev","page":1,"postsPerPage":15,"totalPages":1,"totalCount":1,"blogDescription":"Octagon Posts Archive","blogTitle":"Posts"}')}}]);

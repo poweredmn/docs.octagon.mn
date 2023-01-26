@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkOctagonDocs=self.webpackChunkOctagonDocs||[]).push([[7727],{9191:a=>{a.exports=JSON.parse('{"title":"What is DAO","slug":"/category/what-is-dao","permalink":"/docs/category/what-is-dao","navigation":{"next":{"title":"DAO \u0433\u044d\u0436 \u044e\u0443 \u0432\u044d?","permalink":"/docs/dao/dao-intro"}}}')}}]);

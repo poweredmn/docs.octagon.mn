@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs_octagon_mn=self.webpackChunkdocs_octagon_mn||[]).push([[6448],{4754:s=>{s.exports=JSON.parse('{"permalink":"/posts/tags/explain","page":1,"postsPerPage":15,"totalPages":1,"totalCount":3,"blogDescription":"Octagon Posts Archive","blogTitle":"Posts"}')}}]);
