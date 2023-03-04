@@ -99,16 +99,16 @@ module.exports = {
         darkTheme: darkCodeTheme,
       },
       algolia: {
-        appId: "P6Y361GBRZ",
-        apiKey: "e8607b131dbf2ac1a8de6deed4b5b44c",
+        appId: "CNSUW259F8",
+        apiKey: "c8f8408b6dc7debe89860886c1fd5551",
         indexName: "docs",
-        /**
+        /**ё
          * keep contextual search as false otherwise search will fail
          * see link for reference.
          *
          * https://discourse.algolia.com/t/algolia-searchbar-is-not-working-with-docusaurus-v2/14659/2
          */
-        contextualSearch: false,
+        contextualSearch: true,
       },
     }),
 };
